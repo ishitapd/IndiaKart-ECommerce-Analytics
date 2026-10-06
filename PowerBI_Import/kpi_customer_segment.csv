@@ -1,0 +1,6 @@
+segment,customers,average_orders,average_lifetime_value_inr,segment_revenue_inr,average_age
+Regular,4026,5.73,361870.72,1456891522.68,41.97
+Premium,1501,8.61,532735.0,799635228.72,41.76
+Budget,2505,2.9,186178.81,466377913.45,41.46
+New,1488,4.34,274866.48,409001320.68,41.38
+Inactive,480,0.56,32249.08,15479559.05,41.0

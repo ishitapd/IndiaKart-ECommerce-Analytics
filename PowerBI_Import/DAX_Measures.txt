@@ -1,0 +1,71 @@
+-- ============================================================
+-- IndiaKart E-Commerce Analytics - Power BI DAX Measures
+-- Copy and paste these measures into Power BI Desktop
+-- ============================================================
+
+-- 1. Total Revenue
+Total Revenue = SUM(orders_clean[final_amount])
+
+-- 2. Delivered Revenue
+Delivered Revenue = 
+CALCULATE(
+    [Total Revenue],
+    orders_clean[status] = "Delivered"
+)
+
+-- 3. Total Orders Count
+Total Orders = DISTINCTCOUNT(orders_clean[order_id])
+
+-- 4. Delivered Orders Count
+Delivered Orders = 
+CALCULATE(
+    [Total Orders],
+    orders_clean[status] = "Delivered"
+)
+
+-- 5. Cancelled Orders Count
+Cancelled Orders = 
+CALCULATE(
+    [Total Orders],
+    orders_clean[status] = "Cancelled"
+)
+
+-- 6. Returned Orders Count
+Returned Orders = 
+CALCULATE(
+    [Total Orders],
+    orders_clean[status] = "Returned"
+)
+
+-- 7. Average Order Value (AOV)
+Average Order Value = DIVIDE([Total Revenue], [Total Orders], 0)
+
+-- 8. Cancellation Rate Percentage
+Cancellation Rate = DIVIDE([Cancelled Orders], [Total Orders], 0)
+
+-- 9. Return Rate Percentage
+Return Rate = DIVIDE([Returned Orders], [Total Orders], 0)
+
+-- 10. Total Units Sold
+Units Sold = SUM(order_items_clean[quantity])
+
+-- 11. Total Discounts Given
+Discount Value = SUM(orders_clean[discount_amount])
+
+-- 12. Shipping Revenue Collected
+Shipping Revenue = SUM(orders_clean[shipping_charge])
+
+-- 13. Products Below Reorder Level
+Below Reorder Products = 
+CALCULATE(
+    DISTINCTCOUNT(inventory_health[product_id]),
+    inventory_health[below_reorder] = TRUE()
+)
+
+-- 14. Payment Gateway Failure Rate
+Payment Failure Rate = 
+DIVIDE(
+    CALCULATE(COUNTROWS(payments), payments[status] = "Failed"),
+    COUNTROWS(payments),
+    0
+)

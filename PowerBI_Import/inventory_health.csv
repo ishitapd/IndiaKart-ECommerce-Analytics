@@ -1,0 +1,1001 @@
+product_id,product_name,category,warehouse_location,quantity_available,quantity_reserved,reorder_level,reorder_quantity,total_inventory_value,status,below_reorder
+PRD0001,Usha Smartphone Elite,Electronics,Hyderabad-WH4,13,4,49,245,724594,Low Stock,True
+PRD0002,Gizmore Smartphone Premium,Electronics,Kolkata-WH6,368,14,50,250,17683136,In Stock,False
+PRD0003,Fire-Boltt Smartphone Max,Electronics,Delhi-WH2,196,19,44,220,13506948,In Stock,False
+PRD0004,Godrej Smartphone Elite,Electronics,Delhi-WH2,432,10,19,57,34583760,In Stock,False
+PRD0005,HDFC Smartphone Elite,Electronics,Bengaluru-WH3,404,16,44,88,3392792,In Stock,False
+PRD0006,Orient Smartphone Base,Electronics,Delhi-WH2,349,11,50,100,5891818,In Stock,False
+PRD0007,Amul Smartphone Premium,Electronics,Hyderabad-WH4,15,12,33,132,680790,Low Stock,True
+PRD0008,Hindusta Unilever Smartphone Pro,Electronics,Kolkata-WH6,19,3,11,33,971945,In Stock,False
+PRD0009,Titan Smartphone Max,Electronics,Bengaluru-WH3,398,8,31,124,13698364,In Stock,False
+PRD0010,Maruti Smartphone Elite,Electronics,Hyderabad-WH4,235,6,47,141,1979875,In Stock,False
+PRD0011,Marico Laptop Max,Electronics,Delhi-WH2,95,20,50,150,1553725,In Stock,False
+PRD0012,Usha Laptop Pro,Electronics,Hyderabad-WH4,294,7,27,81,14438634,In Stock,False
+PRD0013,V-Guard Laptop Elite,Electronics,Hyderabad-WH4,52,5,31,124,2632916,In Stock,False
+PRD0014,HDFC Laptop Base,Electronics,Delhi-WH2,468,17,30,120,6566976,In Stock,False
+PRD0015,Hindusta Unilever Laptop Lite,Electronics,Hyderabad-WH4,483,5,31,93,29135043,In Stock,False
+PRD0016,ITC Laptop Lite,Electronics,Bengaluru-WH3,444,16,24,96,38962776,In Stock,False
+PRD0017,Pidilite Laptop Elite,Electronics,Mumbai-WH1,481,17,42,210,34561293,In Stock,False
+PRD0018,Infosys Laptop Ultra,Electronics,Chennai-WH5,487,8,41,205,43536339,In Stock,False
+PRD0019,Orient Laptop Standard,Electronics,Hyderabad-WH4,312,9,30,120,11721840,In Stock,False
+PRD0020,Berger Laptop Standard,Electronics,Chennai-WH5,156,3,50,100,5829564,In Stock,False
+PRD0021,boAt Tablet Pro,Electronics,Mumbai-WH1,247,6,20,80,7929441,In Stock,False
+PRD0022,ITC Tablet Base,Electronics,Mumbai-WH1,406,11,12,36,21006034,In Stock,False
+PRD0023,Dabur Tablet Base,Electronics,Hyderabad-WH4,166,3,28,112,12105882,In Stock,False
+PRD0024,Dabur Tablet Pro,Electronics,Bengaluru-WH3,110,19,21,63,6125790,In Stock,False
+PRD0025,Mahindra Tablet Plus,Electronics,Mumbai-WH1,433,7,43,215,37970203,In Stock,False
+PRD0026,Pebble Tablet Premium,Electronics,Bengaluru-WH3,8,2,49,98,538024,Low Stock,True
+PRD0027,Crossbeats Tablet Pro,Electronics,Delhi-WH2,397,14,32,160,27921010,In Stock,False
+PRD0028,Infosys Tablet Ultra,Electronics,Chennai-WH5,356,15,47,94,10817416,In Stock,False
+PRD0029,Mivi Tablet Ultra,Electronics,Mumbai-WH1,67,8,40,160,6431129,In Stock,False
+PRD0030,Infosys Tablet Elite,Electronics,Chennai-WH5,263,11,43,215,10005835,In Stock,False
+PRD0031,Ambrane Smart TV Max,Electronics,Hyderabad-WH4,169,13,45,90,11632439,In Stock,False
+PRD0032,Ambrane Smart TV Classic,Electronics,Chennai-WH5,212,14,38,152,2205648,In Stock,False
+PRD0033,Dabur Smart TV Max,Electronics,Chennai-WH5,252,10,31,124,7765632,In Stock,False
+PRD0034,Hero Smart TV Plus,Electronics,Hyderabad-WH4,375,11,47,188,32919000,In Stock,False
+PRD0035,Finolex Smart TV Elite,Electronics,Delhi-WH2,91,9,42,84,154245,In Stock,False
+PRD0036,Zebronics Smart TV Base,Electronics,Delhi-WH2,170,0,11,22,7132520,In Stock,False
+PRD0037,Wipro Smart TV Max,Electronics,Kolkata-WH6,157,7,33,99,7647784,In Stock,False
+PRD0038,Amul Smart TV Plus,Electronics,Bengaluru-WH3,329,10,17,34,22393056,In Stock,False
+PRD0039,Hero Smart TV Max,Electronics,Mumbai-WH1,174,16,40,120,16596294,In Stock,False
+PRD0040,Infosys Smart TV Base,Electronics,Kolkata-WH6,284,3,21,84,4761828,In Stock,False
+PRD0041,Berger Headphones Premium,Electronics,Chennai-WH5,266,12,43,215,19307610,In Stock,False
+PRD0042,Crompton Headphones Classic,Electronics,Hyderabad-WH4,251,7,19,95,19650539,In Stock,False
+PRD0043,Infosys Headphones Lite,Electronics,Kolkata-WH6,225,13,28,84,12516525,In Stock,False
+PRD0044,Polycab Headphones Ultra,Electronics,Kolkata-WH6,433,5,42,168,26422093,In Stock,False
+PRD0045,Orient Headphones Classic,Electronics,Delhi-WH2,269,17,23,46,10074588,In Stock,False
+PRD0046,Pidilite Headphones Premium,Electronics,Delhi-WH2,32,19,18,54,2508032,In Stock,False
+PRD0047,Havells Headphones Standard,Electronics,Mumbai-WH1,156,1,49,245,5521620,In Stock,False
+PRD0048,Crossbeats Headphones Standard,Electronics,Bengaluru-WH3,125,15,36,108,3469750,In Stock,False
+PRD0049,Syska Headphones Premium,Electronics,Mumbai-WH1,237,17,32,96,6231441,In Stock,False
+PRD0050,Berger Headphones Standard,Electronics,Kolkata-WH6,361,14,15,45,26204629,In Stock,False
+PRD0051,Pidilite Bluetooth Speaker Plus,Electronics,Bengaluru-WH3,237,11,30,120,2854191,In Stock,False
+PRD0052,Gizmore Bluetooth Speaker Ultra,Electronics,Mumbai-WH1,79,10,46,138,1880200,In Stock,False
+PRD0053,Crompton Bluetooth Speaker Elite,Electronics,Hyderabad-WH4,418,17,39,117,26758270,In Stock,False
+PRD0054,Zebronics Bluetooth Speaker Standard,Electronics,Kolkata-WH6,281,14,21,42,20227504,In Stock,False
+PRD0055,Reliance Bluetooth Speaker Standard,Electronics,Kolkata-WH6,32,6,39,117,2546240,Low Stock,True
+PRD0056,Bajaj Electricals Bluetooth Speaker Elite,Electronics,Kolkata-WH6,111,18,46,138,5189583,In Stock,False
+PRD0057,Orient Bluetooth Speaker Max,Electronics,Chennai-WH5,88,18,19,57,3312232,In Stock,False
+PRD0058,HDFC Bluetooth Speaker Classic,Electronics,Bengaluru-WH3,375,18,37,74,12225375,In Stock,False
+PRD0059,Infosys Bluetooth Speaker Pro,Electronics,Delhi-WH2,283,7,45,135,11998351,In Stock,False
+PRD0060,Mahindra Bluetooth Speaker Pro,Electronics,Chennai-WH5,359,17,25,75,18017133,In Stock,False
+PRD0061,Reliance Power Bank Premium,Electronics,Mumbai-WH1,136,15,36,180,3200760,In Stock,False
+PRD0062,Godrej Power Bank Standard,Electronics,Bengaluru-WH3,413,7,35,70,28070784,In Stock,False
+PRD0063,Bajaj Power Bank Premium,Electronics,Chennai-WH5,443,15,26,52,15212177,In Stock,False
+PRD0064,boAt Power Bank Max,Electronics,Hyderabad-WH4,422,0,47,141,9703890,In Stock,False
+PRD0065,Crossbeats Power Bank Standard,Electronics,Mumbai-WH1,35,10,20,60,786625,In Stock,False
+PRD0066,Pidilite Power Bank Elite,Electronics,Hyderabad-WH4,388,3,43,129,2748980,In Stock,False
+PRD0067,Ambrane Power Bank Classic,Electronics,Delhi-WH2,418,18,30,90,35351932,In Stock,False
+PRD0068,Maruti Power Bank Base,Electronics,Delhi-WH2,415,11,16,80,1603975,In Stock,False
+PRD0069,Gizmore Power Bank Plus,Electronics,Mumbai-WH1,88,8,12,60,3515072,In Stock,False
+PRD0070,Noise Power Bank Classic,Electronics,Chennai-WH5,238,16,43,215,7849478,In Stock,False
+PRD0071,Noise Smartwatch Standard,Electronics,Kolkata-WH6,354,16,33,132,5197782,In Stock,False
+PRD0072,HDFC Smartwatch Elite,Electronics,Mumbai-WH1,273,1,35,105,11688495,In Stock,False
+PRD0073,Maruti Smartwatch Plus,Electronics,Kolkata-WH6,120,2,34,136,12314400,In Stock,False
+PRD0074,Finolex Smartwatch Elite,Electronics,Delhi-WH2,177,18,20,40,17819121,In Stock,False
+PRD0075,Bajaj Electricals Smartwatch Premium,Electronics,Kolkata-WH6,295,18,20,80,17702360,In Stock,False
+PRD0076,Asian Paints Smartwatch Pro,Electronics,Hyderabad-WH4,155,8,22,66,559085,In Stock,False
+PRD0077,Mivi Smartwatch Plus,Electronics,Chennai-WH5,100,13,10,50,6929600,In Stock,False
+PRD0078,Titan Smartwatch Plus,Electronics,Mumbai-WH1,303,19,41,82,5382795,In Stock,False
+PRD0079,Titan Smartwatch Plus,Electronics,Kolkata-WH6,324,4,19,38,2656152,In Stock,False
+PRD0080,Ambrane Smartwatch Pro,Electronics,Hyderabad-WH4,443,14,39,117,1275397,In Stock,False
+PRD0081,Bajaj Camera Max,Electronics,Mumbai-WH1,394,3,15,75,25149808,In Stock,False
+PRD0082,Pidilite Camera Lite,Electronics,Mumbai-WH1,467,3,21,42,7836260,In Stock,False
+PRD0083,Pebble Camera Premium,Electronics,Hyderabad-WH4,175,7,43,129,6764800,In Stock,False
+PRD0084,Ambrane Camera Standard,Electronics,Bengaluru-WH3,109,18,12,36,594922,In Stock,False
+PRD0085,Amul Camera Base,Electronics,Mumbai-WH1,106,5,44,220,2439696,In Stock,False
+PRD0086,Godrej Camera Elite,Electronics,Mumbai-WH1,154,4,43,172,13673506,In Stock,False
+PRD0087,Hero Camera Plus,Electronics,Chennai-WH5,145,12,11,33,6330700,In Stock,False
+PRD0088,Orient Camera Standard,Electronics,Delhi-WH2,340,4,30,120,28576660,In Stock,False
+PRD0089,Mahindra Camera Standard,Electronics,Delhi-WH2,430,11,47,188,17894020,In Stock,False
+PRD0090,Berger Camera Pro,Electronics,Delhi-WH2,379,18,10,40,5092244,In Stock,False
+PRD0091,Pebble Router Premium,Electronics,Mumbai-WH1,254,7,11,55,11622786,In Stock,False
+PRD0092,Hero Router Premium,Electronics,Bengaluru-WH3,97,17,37,148,2775267,In Stock,False
+PRD0093,Hindusta Unilever Router Premium,Electronics,Delhi-WH2,157,0,18,72,879357,In Stock,False
+PRD0094,Berger Router Pro,Electronics,Delhi-WH2,79,15,11,22,2913678,In Stock,False
+PRD0095,Orient Router Max,Electronics,Hyderabad-WH4,314,7,20,100,22863910,In Stock,False
+PRD0096,Godrej Router Base,Electronics,Mumbai-WH1,306,14,49,98,3683322,In Stock,False
+PRD0097,Orient Router Elite,Electronics,Hyderabad-WH4,302,7,11,33,13381016,In Stock,False
+PRD0098,Mivi Router Max,Electronics,Bengaluru-WH3,332,10,16,64,19692580,In Stock,False
+PRD0099,Bajaj Router Classic,Electronics,Delhi-WH2,328,9,10,20,23573032,In Stock,False
+PRD0100,Finolex Router Lite,Electronics,Bengaluru-WH3,8,6,49,245,541824,Low Stock,True
+PRD0101,Wipro Men Kurta Standard,Fashion,Bengaluru-WH3,188,19,37,74,175592,In Stock,False
+PRD0102,ITC Men Kurta Lite,Fashion,Bengaluru-WH3,346,9,32,160,1082634,In Stock,False
+PRD0103,V-Guard Men Kurta Lite,Fashion,Delhi-WH2,245,8,16,80,911890,In Stock,False
+PRD0104,Noise Men Kurta Classic,Fashion,Mumbai-WH1,22,3,45,90,56606,Low Stock,True
+PRD0105,Mivi Men Kurta Lite,Fashion,Chennai-WH5,412,7,36,72,3038912,In Stock,False
+PRD0106,Amul Men Kurta Lite,Fashion,Hyderabad-WH4,390,5,15,75,287040,In Stock,False
+PRD0107,Usha Men Kurta Premium,Fashion,Mumbai-WH1,6,6,43,172,27750,Low Stock,True
+PRD0108,Polycab Men Kurta Base,Fashion,Kolkata-WH6,303,3,11,44,1386528,In Stock,False
+PRD0109,Ambrane Men Kurta Base,Fashion,Chennai-WH5,43,1,22,110,456832,In Stock,False
+PRD0110,Maruti Men Kurta Ultra,Fashion,Kolkata-WH6,27,7,39,156,297135,Low Stock,True
+PRD0111,Polycab Women Saree Max,Fashion,Bengaluru-WH3,445,16,28,112,233180,In Stock,False
+PRD0112,Reliance Women Saree Premium,Fashion,Delhi-WH2,410,3,35,105,603930,In Stock,False
+PRD0113,Mahindra Women Saree Classic,Fashion,Bengaluru-WH3,222,17,21,84,1745808,In Stock,False
+PRD0114,Zebronics Women Saree Elite,Fashion,Bengaluru-WH3,219,15,48,96,1345536,In Stock,False
+PRD0115,Crossbeats Women Saree Premium,Fashion,Delhi-WH2,2,2,31,93,15420,Low Stock,True
+PRD0116,Noise Women Saree Ultra,Fashion,Bengaluru-WH3,421,13,38,190,3421046,In Stock,False
+PRD0117,Tata Women Saree Lite,Fashion,Mumbai-WH1,180,16,47,141,1319580,In Stock,False
+PRD0118,HCL Women Saree Premium,Fashion,Mumbai-WH1,243,1,11,44,603369,In Stock,False
+PRD0119,Syska Women Saree Ultra,Fashion,Bengaluru-WH3,51,20,29,58,383367,In Stock,False
+PRD0120,V-Guard Women Saree Lite,Fashion,Hyderabad-WH4,228,14,47,94,1463532,In Stock,False
+PRD0121,Hindusta Unilever Jeans Max,Fashion,Chennai-WH5,383,7,26,52,2461158,In Stock,False
+PRD0122,Infosys Jeans Premium,Fashion,Kolkata-WH6,362,8,50,100,1298132,In Stock,False
+PRD0123,Syska Jeans Classic,Fashion,Bengaluru-WH3,362,5,14,28,1821946,In Stock,False
+PRD0124,Usha Jeans Standard,Fashion,Chennai-WH5,256,9,12,60,1199616,In Stock,False
+PRD0125,ITC Jeans Base,Fashion,Delhi-WH2,252,20,50,100,659736,In Stock,False
+PRD0126,Titan Jeans Premium,Fashion,Hyderabad-WH4,224,12,17,68,1131424,In Stock,False
+PRD0127,Portronics Jeans Base,Fashion,Delhi-WH2,195,6,16,80,1000350,In Stock,False
+PRD0128,Noise Jeans Standard,Fashion,Bengaluru-WH3,245,7,46,138,339815,In Stock,False
+PRD0129,Ambrane Jeans Classic,Fashion,Kolkata-WH6,93,16,23,92,795429,In Stock,False
+PRD0130,Hindusta Unilever Jeans Ultra,Fashion,Hyderabad-WH4,58,0,49,98,385526,In Stock,False
+PRD0131,Bajaj Electricals T-Shirt Plus,Fashion,Kolkata-WH6,452,4,37,74,3519272,In Stock,False
+PRD0132,Mivi T-Shirt Ultra,Fashion,Chennai-WH5,263,5,39,78,2589761,In Stock,False
+PRD0133,Orient T-Shirt Lite,Fashion,Kolkata-WH6,430,0,20,80,1976280,In Stock,False
+PRD0134,HCL T-Shirt Pro,Fashion,Bengaluru-WH3,42,19,25,125,56238,In Stock,False
+PRD0135,Syska T-Shirt Premium,Fashion,Mumbai-WH1,499,17,38,152,4888703,In Stock,False
+PRD0136,Ambrane T-Shirt Max,Fashion,Chennai-WH5,417,12,14,56,118428,In Stock,False
+PRD0137,Usha T-Shirt Plus,Fashion,Hyderabad-WH4,82,11,17,51,94464,In Stock,False
+PRD0138,boAt T-Shirt Plus,Fashion,Mumbai-WH1,191,17,38,114,1362403,In Stock,False
+PRD0139,Fire-Boltt T-Shirt Premium,Fashion,Hyderabad-WH4,276,15,12,48,1296372,In Stock,False
+PRD0140,boAt T-Shirt Ultra,Fashion,Delhi-WH2,424,12,21,42,2909064,In Stock,False
+PRD0141,Gizmore Ethnic Dress Pro,Fashion,Delhi-WH2,46,16,15,75,154514,In Stock,False
+PRD0142,Noise Ethnic Dress Pro,Fashion,Chennai-WH5,405,13,20,60,773550,In Stock,False
+PRD0143,V-Guard Ethnic Dress Base,Fashion,Kolkata-WH6,200,15,47,94,1667000,In Stock,False
+PRD0144,Titan Ethnic Dress Elite,Fashion,Kolkata-WH6,181,3,24,96,818844,In Stock,False
+PRD0145,V-Guard Ethnic Dress Pro,Fashion,Hyderabad-WH4,57,1,32,160,195966,In Stock,False
+PRD0146,Berger Ethnic Dress Base,Fashion,Bengaluru-WH3,90,17,41,123,251460,In Stock,False
+PRD0147,HDFC Ethnic Dress Plus,Fashion,Hyderabad-WH4,181,18,16,80,59911,In Stock,False
+PRD0148,Bajaj Ethnic Dress Max,Fashion,Hyderabad-WH4,23,20,48,192,170200,Low Stock,True
+PRD0149,Maruti Ethnic Dress Ultra,Fashion,Kolkata-WH6,279,8,25,125,2397168,In Stock,False
+PRD0150,Voltas Ethnic Dress Ultra,Fashion,Delhi-WH2,261,2,29,145,817974,In Stock,False
+PRD0151,HDFC Formal Shirt Base,Fashion,Hyderabad-WH4,173,4,16,48,864481,In Stock,False
+PRD0152,V-Guard Formal Shirt Plus,Fashion,Hyderabad-WH4,124,8,50,150,771404,In Stock,False
+PRD0153,Mahindra Formal Shirt Standard,Fashion,Bengaluru-WH3,491,17,24,120,3988393,In Stock,False
+PRD0154,HDFC Formal Shirt Classic,Fashion,Mumbai-WH1,116,13,49,147,562716,In Stock,False
+PRD0155,Usha Formal Shirt Plus,Fashion,Hyderabad-WH4,77,19,43,86,495341,In Stock,False
+PRD0156,Orient Formal Shirt Standard,Fashion,Mumbai-WH1,426,9,14,28,3968190,In Stock,False
+PRD0157,Orient Formal Shirt Ultra,Fashion,Bengaluru-WH3,458,19,25,75,380598,In Stock,False
+PRD0158,Godrej Formal Shirt Classic,Fashion,Delhi-WH2,55,15,24,120,546590,In Stock,False
+PRD0159,Noise Formal Shirt Pro,Fashion,Bengaluru-WH3,127,10,12,24,783971,In Stock,False
+PRD0160,ITC Formal Shirt Plus,Fashion,Delhi-WH2,424,11,11,44,3133784,In Stock,False
+PRD0161,Wipro Lehenga Standard,Fashion,Chennai-WH5,134,3,17,85,1093306,In Stock,False
+PRD0162,Polycab Lehenga Lite,Fashion,Kolkata-WH6,446,9,22,88,829560,In Stock,False
+PRD0163,Reliance Lehenga Base,Fashion,Hyderabad-WH4,205,15,14,28,61500,In Stock,False
+PRD0164,Polycab Lehenga Pro,Fashion,Chennai-WH5,132,18,48,96,361284,In Stock,False
+PRD0165,Hero Lehenga Base,Fashion,Hyderabad-WH4,373,14,10,30,489749,In Stock,False
+PRD0166,Hindusta Unilever Lehenga Classic,Fashion,Hyderabad-WH4,226,16,27,54,1417246,In Stock,False
+PRD0167,Syska Lehenga Elite,Fashion,Kolkata-WH6,94,12,35,140,51512,In Stock,False
+PRD0168,Voltas Lehenga Standard,Fashion,Chennai-WH5,339,7,44,220,1353966,In Stock,False
+PRD0169,Dabur Lehenga Pro,Fashion,Chennai-WH5,225,12,29,116,244350,In Stock,False
+PRD0170,Hero Lehenga Max,Fashion,Bengaluru-WH3,174,10,47,94,1082454,In Stock,False
+PRD0171,Havells Sherwani Lite,Fashion,Kolkata-WH6,69,5,48,96,187680,In Stock,False
+PRD0172,Godrej Sherwani Ultra,Fashion,Kolkata-WH6,126,1,34,136,633906,In Stock,False
+PRD0173,Zebronics Sherwani Pro,Fashion,Kolkata-WH6,40,1,37,111,11400,In Stock,False
+PRD0174,Noise Sherwani Pro,Fashion,Hyderabad-WH4,394,6,45,225,1124476,In Stock,False
+PRD0175,Titan Sherwani Base,Fashion,Mumbai-WH1,499,16,18,72,1010475,In Stock,False
+PRD0176,Usha Sherwani Pro,Fashion,Hyderabad-WH4,28,0,34,68,211596,Low Stock,True
+PRD0177,Berger Sherwani Base,Fashion,Bengaluru-WH3,333,4,46,184,2729934,In Stock,False
+PRD0178,Bajaj Sherwani Base,Fashion,Bengaluru-WH3,91,12,13,65,98280,In Stock,False
+PRD0179,Marico Sherwani Base,Fashion,Chennai-WH5,462,13,45,225,3030720,In Stock,False
+PRD0180,HDFC Sherwani Elite,Fashion,Bengaluru-WH3,167,5,37,74,675849,In Stock,False
+PRD0181,HDFC Kurti Plus,Fashion,Hyderabad-WH4,442,14,33,132,777478,In Stock,False
+PRD0182,Hindusta Unilever Kurti Elite,Fashion,Bengaluru-WH3,230,7,29,87,1430830,In Stock,False
+PRD0183,V-Guard Kurti Max,Fashion,Delhi-WH2,217,11,18,72,1385979,In Stock,False
+PRD0184,Voltas Kurti Elite,Fashion,Delhi-WH2,66,13,50,200,387486,In Stock,False
+PRD0185,Pidilite Kurti Pro,Fashion,Kolkata-WH6,55,10,35,140,118525,In Stock,False
+PRD0186,Hindusta Unilever Kurti Standard,Fashion,Delhi-WH2,355,5,37,74,671660,In Stock,False
+PRD0187,Crompton Kurti Lite,Fashion,Hyderabad-WH4,92,15,38,190,158608,In Stock,False
+PRD0188,Reliance Kurti Standard,Fashion,Chennai-WH5,391,2,30,150,3208155,In Stock,False
+PRD0189,V-Guard Kurti Classic,Fashion,Kolkata-WH6,90,3,27,54,381600,In Stock,False
+PRD0190,Amul Kurti Max,Fashion,Chennai-WH5,489,16,26,130,1782894,In Stock,False
+PRD0191,Amul Sports Shoes Standard,Fashion,Mumbai-WH1,463,3,44,220,2616413,In Stock,False
+PRD0192,Usha Sports Shoes Ultra,Fashion,Chennai-WH5,246,4,41,123,91020,In Stock,False
+PRD0193,ITC Sports Shoes Premium,Fashion,Hyderabad-WH4,304,0,32,128,2799232,In Stock,False
+PRD0194,Pebble Sports Shoes Premium,Fashion,Delhi-WH2,209,20,26,130,632225,In Stock,False
+PRD0195,Maruti Sports Shoes Classic,Fashion,Mumbai-WH1,56,6,20,80,398384,In Stock,False
+PRD0196,Titan Sports Shoes Plus,Fashion,Bengaluru-WH3,452,7,40,200,3236320,In Stock,False
+PRD0197,Ambrane Sports Shoes Base,Fashion,Chennai-WH5,373,1,34,170,2842633,In Stock,False
+PRD0198,Pidilite Sports Shoes Standard,Fashion,Bengaluru-WH3,325,8,20,60,593125,In Stock,False
+PRD0199,Asian Paints Sports Shoes Elite,Fashion,Kolkata-WH6,343,7,45,180,954912,In Stock,False
+PRD0200,Titan Sports Shoes Standard,Fashion,Mumbai-WH1,385,1,27,135,957110,In Stock,False
+PRD0201,ITC Pressure Cooker Max,Home & Kitchen,Kolkata-WH6,188,14,28,112,473008,In Stock,False
+PRD0202,HCL Pressure Cooker Standard,Home & Kitchen,Mumbai-WH1,450,4,14,42,184500,In Stock,False
+PRD0203,Wipro Pressure Cooker Lite,Home & Kitchen,Chennai-WH5,146,15,44,88,734380,In Stock,False
+PRD0204,boAt Pressure Cooker Pro,Home & Kitchen,Delhi-WH2,396,7,35,140,3962376,In Stock,False
+PRD0205,Infosys Pressure Cooker Base,Home & Kitchen,Hyderabad-WH4,380,5,20,40,1172680,In Stock,False
+PRD0206,Crompton Pressure Cooker Max,Home & Kitchen,Mumbai-WH1,194,15,20,80,663286,In Stock,False
+PRD0207,Crossbeats Pressure Cooker Max,Home & Kitchen,Chennai-WH5,31,12,14,42,7688,In Stock,False
+PRD0208,Crompton Pressure Cooker Max,Home & Kitchen,Delhi-WH2,365,1,50,250,2776190,In Stock,False
+PRD0209,Mivi Pressure Cooker Classic,Home & Kitchen,Chennai-WH5,368,4,44,176,4644160,In Stock,False
+PRD0210,Polycab Pressure Cooker Max,Home & Kitchen,Bengaluru-WH3,434,0,24,48,3012828,In Stock,False
+PRD0211,Amul Mixer Grinder Base,Home & Kitchen,Mumbai-WH1,53,12,42,210,161915,In Stock,False
+PRD0212,Dabur Mixer Grinder Base,Home & Kitchen,Hyderabad-WH4,263,11,14,42,2406976,In Stock,False
+PRD0213,Hindusta Unilever Mixer Grinder Classic,Home & Kitchen,Bengaluru-WH3,469,8,33,165,4419856,In Stock,False
+PRD0214,Maruti Mixer Grinder Lite,Home & Kitchen,Bengaluru-WH3,419,2,44,220,3072108,In Stock,False
+PRD0215,Noise Mixer Grinder Standard,Home & Kitchen,Mumbai-WH1,230,0,45,180,2627060,In Stock,False
+PRD0216,Voltas Mixer Grinder Pro,Home & Kitchen,Chennai-WH5,63,14,19,76,429597,In Stock,False
+PRD0217,Wipro Mixer Grinder Elite,Home & Kitchen,Chennai-WH5,411,18,49,245,5197917,In Stock,False
+PRD0218,Portronics Mixer Grinder Ultra,Home & Kitchen,Kolkata-WH6,397,19,19,38,2896512,In Stock,False
+PRD0219,Havells Mixer Grinder Standard,Home & Kitchen,Hyderabad-WH4,296,3,18,72,2261144,In Stock,False
+PRD0220,Titan Mixer Grinder Elite,Home & Kitchen,Delhi-WH2,129,1,34,68,296184,In Stock,False
+PRD0221,Tata Rice Cooker Standard,Home & Kitchen,Kolkata-WH6,493,8,34,102,3350921,In Stock,False
+PRD0222,ITC Rice Cooker Max,Home & Kitchen,Kolkata-WH6,104,7,45,225,1320800,In Stock,False
+PRD0223,Dabur Rice Cooker Base,Home & Kitchen,Mumbai-WH1,121,4,46,92,1309341,In Stock,False
+PRD0224,HDFC Rice Cooker Ultra,Home & Kitchen,Hyderabad-WH4,255,5,11,33,3342030,In Stock,False
+PRD0225,Mivi Rice Cooker Elite,Home & Kitchen,Kolkata-WH6,263,18,13,39,1151151,In Stock,False
+PRD0226,Gizmore Rice Cooker Pro,Home & Kitchen,Mumbai-WH1,22,5,17,51,199914,In Stock,False
+PRD0227,Voltas Rice Cooker Ultra,Home & Kitchen,Hyderabad-WH4,32,14,43,215,52160,Low Stock,True
+PRD0228,Tata Rice Cooker Classic,Home & Kitchen,Chennai-WH5,465,20,11,55,2382195,In Stock,False
+PRD0229,Pidilite Rice Cooker Pro,Home & Kitchen,Bengaluru-WH3,280,6,15,60,1929480,In Stock,False
+PRD0230,Polycab Rice Cooker Premium,Home & Kitchen,Chennai-WH5,31,9,25,100,276148,In Stock,False
+PRD0231,Portronics Water Purifier Max,Home & Kitchen,Chennai-WH5,483,16,15,30,5465145,In Stock,False
+PRD0232,Hindusta Unilever Water Purifier Classic,Home & Kitchen,Kolkata-WH6,400,4,45,135,890800,In Stock,False
+PRD0233,Marico Water Purifier Standard,Home & Kitchen,Bengaluru-WH3,443,3,47,94,2549022,In Stock,False
+PRD0234,Marico Water Purifier Standard,Home & Kitchen,Hyderabad-WH4,395,12,11,33,2433200,In Stock,False
+PRD0235,Amul Water Purifier Lite,Home & Kitchen,Bengaluru-WH3,417,18,27,135,7597323,In Stock,False
+PRD0236,Polycab Water Purifier Lite,Home & Kitchen,Hyderabad-WH4,10,6,12,60,74880,Low Stock,True
+PRD0237,Syska Water Purifier Lite,Home & Kitchen,Kolkata-WH6,37,12,10,40,559033,In Stock,False
+PRD0238,Marico Water Purifier Lite,Home & Kitchen,Bengaluru-WH3,46,0,24,120,560464,In Stock,False
+PRD0239,Voltas Water Purifier Standard,Home & Kitchen,Chennai-WH5,204,8,49,245,1049376,In Stock,False
+PRD0240,Dabur Water Purifier Ultra,Home & Kitchen,Chennai-WH5,7,3,33,165,14714,Low Stock,True
+PRD0241,ITC Air Purifier Elite,Home & Kitchen,Delhi-WH2,150,12,45,225,1715400,In Stock,False
+PRD0242,Noise Air Purifier Base,Home & Kitchen,Chennai-WH5,235,7,10,50,1655340,In Stock,False
+PRD0243,Marico Air Purifier Standard,Home & Kitchen,Chennai-WH5,459,3,50,250,6057423,In Stock,False
+PRD0244,Godrej Air Purifier Base,Home & Kitchen,Chennai-WH5,328,2,41,164,4361088,In Stock,False
+PRD0245,Ambrane Air Purifier Pro,Home & Kitchen,Delhi-WH2,302,11,37,185,3990024,In Stock,False
+PRD0246,Maruti Air Purifier Standard,Home & Kitchen,Mumbai-WH1,459,19,34,102,2882061,In Stock,False
+PRD0247,Mahindra Air Purifier Standard,Home & Kitchen,Kolkata-WH6,67,11,37,185,215070,In Stock,False
+PRD0248,Noise Air Purifier Classic,Home & Kitchen,Hyderabad-WH4,286,0,21,84,756756,In Stock,False
+PRD0249,Bajaj Electricals Air Purifier Pro,Home & Kitchen,Bengaluru-WH3,2,0,46,92,4882,Low Stock,True
+PRD0250,Asian Paints Air Purifier Ultra,Home & Kitchen,Mumbai-WH1,261,14,30,150,1023120,In Stock,False
+PRD0251,Noise Ceiling Fan Pro,Home & Kitchen,Hyderabad-WH4,46,9,18,90,587834,In Stock,False
+PRD0252,Syska Ceiling Fan Ultra,Home & Kitchen,Chennai-WH5,38,20,16,48,576384,In Stock,False
+PRD0253,Bajaj Ceiling Fan Plus,Home & Kitchen,Hyderabad-WH4,364,4,47,235,4934384,In Stock,False
+PRD0254,Godrej Ceiling Fan Ultra,Home & Kitchen,Hyderabad-WH4,72,10,48,96,263880,In Stock,False
+PRD0255,HCL Ceiling Fan Elite,Home & Kitchen,Kolkata-WH6,362,11,26,104,2381598,In Stock,False
+PRD0256,Usha Ceiling Fan Premium,Home & Kitchen,Kolkata-WH6,283,9,32,128,3008007,In Stock,False
+PRD0257,Pebble Ceiling Fan Plus,Home & Kitchen,Delhi-WH2,222,0,42,126,475968,In Stock,False
+PRD0258,Bajaj Electricals Ceiling Fan Plus,Home & Kitchen,Kolkata-WH6,425,18,10,20,3062550,In Stock,False
+PRD0259,Pidilite Ceiling Fan Elite,Home & Kitchen,Kolkata-WH6,204,10,24,120,1218084,In Stock,False
+PRD0260,Voltas Ceiling Fan Classic,Home & Kitchen,Delhi-WH2,87,8,23,115,1109337,In Stock,False
+PRD0261,Pidilite Table Fan Pro,Home & Kitchen,Chennai-WH5,470,10,45,180,5247550,In Stock,False
+PRD0262,Ambrane Table Fan Base,Home & Kitchen,Kolkata-WH6,248,16,43,129,3510440,In Stock,False
+PRD0263,Hero Table Fan Lite,Home & Kitchen,Delhi-WH2,367,2,38,114,261671,In Stock,False
+PRD0264,Tata Table Fan Classic,Home & Kitchen,Bengaluru-WH3,482,0,44,220,1433468,In Stock,False
+PRD0265,Finolex Table Fan Premium,Home & Kitchen,Kolkata-WH6,179,1,45,90,248810,In Stock,False
+PRD0266,Gizmore Table Fan Max,Home & Kitchen,Chennai-WH5,499,5,10,50,7597275,In Stock,False
+PRD0267,boAt Table Fan Standard,Home & Kitchen,Hyderabad-WH4,161,2,21,42,397026,In Stock,False
+PRD0268,Dabur Table Fan Base,Home & Kitchen,Mumbai-WH1,441,18,38,114,6120198,In Stock,False
+PRD0269,Usha Table Fan Base,Home & Kitchen,Hyderabad-WH4,236,18,14,56,2041400,In Stock,False
+PRD0270,Polycab Table Fan Elite,Home & Kitchen,Bengaluru-WH3,489,20,40,80,4098309,In Stock,False
+PRD0271,HDFC LED Bulb Max,Home & Kitchen,Kolkata-WH6,159,10,45,180,949548,In Stock,False
+PRD0272,Hindusta Unilever LED Bulb Plus,Home & Kitchen,Chennai-WH5,408,14,46,230,6297480,In Stock,False
+PRD0273,Infosys LED Bulb Lite,Home & Kitchen,Bengaluru-WH3,109,4,36,144,1335032,In Stock,False
+PRD0274,Infosys LED Bulb Lite,Home & Kitchen,Kolkata-WH6,59,2,36,108,164492,In Stock,False
+PRD0275,Fire-Boltt LED Bulb Premium,Home & Kitchen,Mumbai-WH1,159,6,44,88,545052,In Stock,False
+PRD0276,Bajaj Electricals LED Bulb Elite,Home & Kitchen,Bengaluru-WH3,23,17,19,95,220846,In Stock,False
+PRD0277,Havells LED Bulb Premium,Home & Kitchen,Bengaluru-WH3,35,6,39,156,189630,Low Stock,True
+PRD0278,Pebble LED Bulb Elite,Home & Kitchen,Bengaluru-WH3,391,4,25,125,2777664,In Stock,False
+PRD0279,Finolex LED Bulb Base,Home & Kitchen,Chennai-WH5,441,13,27,54,4555530,In Stock,False
+PRD0280,Crossbeats LED Bulb Elite,Home & Kitchen,Delhi-WH2,301,8,45,180,2512146,In Stock,False
+PRD0281,Tata Bedsheet Set Base,Home & Kitchen,Delhi-WH2,280,10,29,87,175560,In Stock,False
+PRD0282,Fire-Boltt Bedsheet Set Plus,Home & Kitchen,Delhi-WH2,152,17,35,70,1099264,In Stock,False
+PRD0283,Crossbeats Bedsheet Set Ultra,Home & Kitchen,Bengaluru-WH3,228,1,38,190,2996604,In Stock,False
+PRD0284,Usha Bedsheet Set Premium,Home & Kitchen,Mumbai-WH1,171,11,32,160,1823886,In Stock,False
+PRD0285,Pebble Bedsheet Set Premium,Home & Kitchen,Chennai-WH5,93,1,10,40,894474,In Stock,False
+PRD0286,Fire-Boltt Bedsheet Set Lite,Home & Kitchen,Kolkata-WH6,252,9,50,100,815976,In Stock,False
+PRD0287,Mivi Bedsheet Set Base,Home & Kitchen,Mumbai-WH1,455,2,24,48,3990805,In Stock,False
+PRD0288,Titan Bedsheet Set Pro,Home & Kitchen,Kolkata-WH6,48,0,48,144,417600,In Stock,False
+PRD0289,Noise Bedsheet Set Plus,Home & Kitchen,Kolkata-WH6,482,12,38,76,92062,In Stock,False
+PRD0290,Ambrane Bedsheet Set Classic,Home & Kitchen,Mumbai-WH1,86,12,50,200,270126,In Stock,False
+PRD0291,Polycab Curtains Standard,Home & Kitchen,Kolkata-WH6,470,2,27,81,3847420,In Stock,False
+PRD0292,Titan Curtains Elite,Home & Kitchen,Hyderabad-WH4,69,10,21,84,668403,In Stock,False
+PRD0293,Tata Curtains Lite,Home & Kitchen,Kolkata-WH6,440,1,36,72,1349040,In Stock,False
+PRD0294,Finolex Curtains Standard,Home & Kitchen,Bengaluru-WH3,109,20,21,84,1294593,In Stock,False
+PRD0295,Crossbeats Curtains Ultra,Home & Kitchen,Mumbai-WH1,316,14,31,124,1248516,In Stock,False
+PRD0296,Bajaj Curtains Lite,Home & Kitchen,Kolkata-WH6,391,6,38,114,2349910,In Stock,False
+PRD0297,Marico Curtains Premium,Home & Kitchen,Kolkata-WH6,25,18,32,128,301400,Low Stock,True
+PRD0298,Dabur Curtains Plus,Home & Kitchen,Mumbai-WH1,118,0,14,70,53572,In Stock,False
+PRD0299,Hindusta Unilever Curtains Max,Home & Kitchen,Kolkata-WH6,110,0,29,87,867460,In Stock,False
+PRD0300,ITC Curtains Ultra,Home & Kitchen,Bengaluru-WH3,1,0,27,54,140,Low Stock,True
+PRD0301,ITC Fiction Novel Plus,Books,Kolkata-WH6,259,9,49,98,184667,In Stock,False
+PRD0302,Voltas Fiction Novel Classic,Books,Mumbai-WH1,320,7,49,196,271680,In Stock,False
+PRD0303,Reliance Fiction Novel Lite,Books,Bengaluru-WH3,89,11,44,132,72179,In Stock,False
+PRD0304,Wipro Fiction Novel Base,Books,Mumbai-WH1,174,11,19,95,84042,In Stock,False
+PRD0305,Tata Fiction Novel Max,Books,Chennai-WH5,208,18,41,82,73216,In Stock,False
+PRD0306,Ambrane Fiction Novel Plus,Books,Chennai-WH5,292,1,37,74,110376,In Stock,False
+PRD0307,Ambrane Fiction Novel Lite,Books,Bengaluru-WH3,224,1,40,120,193088,In Stock,False
+PRD0308,Tata Fiction Novel Elite,Books,Kolkata-WH6,355,6,18,54,380205,In Stock,False
+PRD0309,Polycab Fiction Novel Classic,Books,Delhi-WH2,297,0,33,66,122067,In Stock,False
+PRD0310,Voltas Fiction Novel Plus,Books,Bengaluru-WH3,193,10,20,40,15054,In Stock,False
+PRD0311,Havells UPSC Guide Pro,Books,Mumbai-WH1,178,15,10,30,80990,In Stock,False
+PRD0312,Bajaj UPSC Guide Plus,Books,Delhi-WH2,66,9,35,70,35772,In Stock,False
+PRD0313,Voltas UPSC Guide Classic,Books,Mumbai-WH1,94,20,47,141,11186,In Stock,False
+PRD0314,Infosys UPSC Guide Base,Books,Delhi-WH2,398,7,19,76,377702,In Stock,False
+PRD0315,Tata UPSC Guide Max,Books,Chennai-WH5,7,0,12,60,3787,Low Stock,True
+PRD0316,Pidilite UPSC Guide Lite,Books,Kolkata-WH6,125,17,10,50,57875,In Stock,False
+PRD0317,Portronics UPSC Guide Classic,Books,Mumbai-WH1,7,1,19,95,4872,Low Stock,True
+PRD0318,Bajaj UPSC Guide Pro,Books,Chennai-WH5,406,0,18,72,143724,In Stock,False
+PRD0319,boAt UPSC Guide Base,Books,Bengaluru-WH3,466,18,39,195,315482,In Stock,False
+PRD0320,Reliance UPSC Guide Classic,Books,Delhi-WH2,95,18,15,75,87590,In Stock,False
+PRD0321,Maruti MBA Textbook Standard,Books,Delhi-WH2,23,13,24,72,1288,Low Stock,True
+PRD0322,Hero MBA Textbook Ultra,Books,Bengaluru-WH3,234,16,33,99,80028,In Stock,False
+PRD0323,HCL MBA Textbook Standard,Books,Kolkata-WH6,237,19,11,33,152154,In Stock,False
+PRD0324,Bajaj Electricals MBA Textbook Max,Books,Delhi-WH2,46,7,32,64,5842,In Stock,False
+PRD0325,Gizmore MBA Textbook Ultra,Books,Mumbai-WH1,358,20,20,60,324706,In Stock,False
+PRD0326,Noise MBA Textbook Base,Books,Mumbai-WH1,466,16,43,215,126752,In Stock,False
+PRD0327,Voltas MBA Textbook Classic,Books,Hyderabad-WH4,289,3,16,32,154326,In Stock,False
+PRD0328,Titan MBA Textbook Lite,Books,Bengaluru-WH3,274,17,33,66,194814,In Stock,False
+PRD0329,Crompton MBA Textbook Elite,Books,Kolkata-WH6,383,15,39,117,142859,In Stock,False
+PRD0330,Orient MBA Textbook Ultra,Books,Chennai-WH5,195,1,45,90,19110,In Stock,False
+PRD0331,Berger Cookbook Standard,Books,Delhi-WH2,273,2,48,240,78351,In Stock,False
+PRD0332,Ambrane Cookbook Ultra,Books,Hyderabad-WH4,465,5,47,188,88815,In Stock,False
+PRD0333,boAt Cookbook Premium,Books,Chennai-WH5,27,4,16,48,21600,In Stock,False
+PRD0334,Syska Cookbook Max,Books,Chennai-WH5,27,6,21,84,13041,In Stock,False
+PRD0335,HCL Cookbook Classic,Books,Delhi-WH2,474,4,24,48,240792,In Stock,False
+PRD0336,Titan Cookbook Pro,Books,Bengaluru-WH3,142,20,41,123,79378,In Stock,False
+PRD0337,Godrej Cookbook Max,Books,Mumbai-WH1,268,13,17,68,149008,In Stock,False
+PRD0338,Maruti Cookbook Pro,Books,Kolkata-WH6,100,4,10,20,8900,In Stock,False
+PRD0339,Bajaj Cookbook Standard,Books,Bengaluru-WH3,106,4,13,39,64554,In Stock,False
+PRD0340,HDFC Cookbook Lite,Books,Bengaluru-WH3,224,4,41,82,143808,In Stock,False
+PRD0341,Hero Self Help Book Ultra,Books,Delhi-WH2,99,16,12,24,61380,In Stock,False
+PRD0342,Zebronics Self Help Book Pro,Books,Bengaluru-WH3,24,12,36,108,18120,Low Stock,True
+PRD0343,Maruti Self Help Book Premium,Books,Kolkata-WH6,29,19,32,96,28768,Low Stock,True
+PRD0344,Crossbeats Self Help Book Max,Books,Chennai-WH5,182,3,35,105,92092,In Stock,False
+PRD0345,Voltas Self Help Book Max,Books,Chennai-WH5,11,1,20,100,6457,Low Stock,True
+PRD0346,Mahindra Self Help Book Standard,Books,Bengaluru-WH3,37,12,40,80,2960,Low Stock,True
+PRD0347,HCL Self Help Book Lite,Books,Delhi-WH2,489,3,43,86,368706,In Stock,False
+PRD0348,Reliance Self Help Book Standard,Books,Bengaluru-WH3,494,2,44,220,399646,In Stock,False
+PRD0349,Infosys Self Help Book Pro,Books,Delhi-WH2,290,3,15,75,169070,In Stock,False
+PRD0350,Tata Self Help Book Standard,Books,Hyderabad-WH4,28,17,33,132,18984,Low Stock,True
+PRD0351,ITC Children Story Standard,Books,Hyderabad-WH4,488,7,12,60,53192,In Stock,False
+PRD0352,Infosys Children Story Premium,Books,Bengaluru-WH3,262,11,35,70,144100,In Stock,False
+PRD0353,Usha Children Story Premium,Books,Bengaluru-WH3,398,20,26,52,42984,In Stock,False
+PRD0354,Orient Children Story Standard,Books,Chennai-WH5,100,6,29,87,80800,In Stock,False
+PRD0355,Fire-Boltt Children Story Base,Books,Kolkata-WH6,4,4,29,145,3812,Low Stock,True
+PRD0356,Amul Children Story Ultra,Books,Hyderabad-WH4,66,4,20,100,7986,In Stock,False
+PRD0357,Havells Children Story Elite,Books,Bengaluru-WH3,495,6,19,95,128700,In Stock,False
+PRD0358,Godrej Children Story Max,Books,Kolkata-WH6,424,17,31,124,332416,In Stock,False
+PRD0359,Hero Children Story Max,Books,Chennai-WH5,51,20,42,84,5508,In Stock,False
+PRD0360,Syska Children Story Max,Books,Kolkata-WH6,485,19,48,96,216310,In Stock,False
+PRD0361,boAt Engineering Book Premium,Books,Kolkata-WH6,327,9,25,50,50685,In Stock,False
+PRD0362,Orient Engineering Book Base,Books,Bengaluru-WH3,349,7,34,102,215333,In Stock,False
+PRD0363,boAt Engineering Book Max,Books,Kolkata-WH6,122,9,18,90,16104,In Stock,False
+PRD0364,Polycab Engineering Book Premium,Books,Chennai-WH5,29,7,33,99,16356,Low Stock,True
+PRD0365,Bajaj Electricals Engineering Book Elite,Books,Kolkata-WH6,486,7,12,24,204120,In Stock,False
+PRD0366,Usha Engineering Book Lite,Books,Hyderabad-WH4,187,12,43,86,146982,In Stock,False
+PRD0367,Wipro Engineering Book Premium,Books,Kolkata-WH6,189,12,39,156,36666,In Stock,False
+PRD0368,Titan Engineering Book Base,Books,Chennai-WH5,232,8,35,140,150336,In Stock,False
+PRD0369,Godrej Engineering Book Lite,Books,Chennai-WH5,223,15,33,132,143389,In Stock,False
+PRD0370,Bajaj Electricals Engineering Book Lite,Books,Chennai-WH5,372,12,48,96,91512,In Stock,False
+PRD0371,Bajaj Medical Guide Ultra,Books,Mumbai-WH1,143,5,18,72,50336,In Stock,False
+PRD0372,Amul Medical Guide Standard,Books,Chennai-WH5,274,10,10,40,121108,In Stock,False
+PRD0373,Portronics Medical Guide Pro,Books,Hyderabad-WH4,174,19,21,63,18966,In Stock,False
+PRD0374,Usha Medical Guide Max,Books,Bengaluru-WH3,195,14,35,105,214305,In Stock,False
+PRD0375,Finolex Medical Guide Elite,Books,Delhi-WH2,232,7,27,108,50576,In Stock,False
+PRD0376,Voltas Medical Guide Standard,Books,Mumbai-WH1,92,9,34,68,8188,In Stock,False
+PRD0377,Infosys Medical Guide Lite,Books,Delhi-WH2,278,7,47,141,176808,In Stock,False
+PRD0378,Syska Medical Guide Classic,Books,Bengaluru-WH3,397,6,30,60,116718,In Stock,False
+PRD0379,Voltas Medical Guide Ultra,Books,Delhi-WH2,112,3,39,78,65968,In Stock,False
+PRD0380,Dabur Medical Guide Standard,Books,Hyderabad-WH4,351,16,17,68,266409,In Stock,False
+PRD0381,Asian Paints History Book Base,Books,Bengaluru-WH3,61,17,15,75,12444,In Stock,False
+PRD0382,Titan History Book Premium,Books,Delhi-WH2,162,11,20,80,27054,In Stock,False
+PRD0383,Infosys History Book Standard,Books,Hyderabad-WH4,463,8,42,168,225018,In Stock,False
+PRD0384,Mahindra History Book Plus,Books,Mumbai-WH1,347,3,41,205,261291,In Stock,False
+PRD0385,Godrej History Book Lite,Books,Kolkata-WH6,445,16,11,55,177555,In Stock,False
+PRD0386,Bajaj Electricals History Book Premium,Books,Hyderabad-WH4,75,14,24,120,66600,In Stock,False
+PRD0387,HCL History Book Pro,Books,Hyderabad-WH4,204,6,30,90,110568,In Stock,False
+PRD0388,Hindusta Unilever History Book Pro,Books,Kolkata-WH6,142,1,13,52,44162,In Stock,False
+PRD0389,Crompton History Book Plus,Books,Mumbai-WH1,274,11,14,56,218104,In Stock,False
+PRD0390,Noise History Book Premium,Books,Mumbai-WH1,23,4,12,60,11454,In Stock,False
+PRD0391,Reliance Biography Classic,Books,Bengaluru-WH3,65,5,14,56,14755,In Stock,False
+PRD0392,Infosys Biography Premium,Books,Mumbai-WH1,484,13,22,44,364936,In Stock,False
+PRD0393,Mivi Biography Classic,Books,Kolkata-WH6,495,3,46,138,305415,In Stock,False
+PRD0394,Ambrane Biography Standard,Books,Hyderabad-WH4,321,5,15,30,79287,In Stock,False
+PRD0395,Fire-Boltt Biography Lite,Books,Bengaluru-WH3,193,11,49,147,82990,In Stock,False
+PRD0396,V-Guard Biography Elite,Books,Chennai-WH5,464,20,11,33,129920,In Stock,False
+PRD0397,Hero Biography Lite,Books,Delhi-WH2,438,11,41,123,110814,In Stock,False
+PRD0398,ITC Biography Premium,Books,Delhi-WH2,423,4,23,69,285102,In Stock,False
+PRD0399,Usha Biography Base,Books,Delhi-WH2,394,19,38,114,266738,In Stock,False
+PRD0400,Berger Biography Premium,Books,Bengaluru-WH3,89,11,10,50,16198,In Stock,False
+PRD0401,Infosys Face Cream Premium,Beauty & Health,Bengaluru-WH3,457,7,24,72,553884,In Stock,False
+PRD0402,Crompton Face Cream Elite,Beauty & Health,Bengaluru-WH3,44,1,42,210,74140,In Stock,False
+PRD0403,Ambrane Face Cream Ultra,Beauty & Health,Hyderabad-WH4,25,1,45,135,21950,Low Stock,True
+PRD0404,Usha Face Cream Classic,Beauty & Health,Chennai-WH5,403,5,17,51,658905,In Stock,False
+PRD0405,Dabur Face Cream Ultra,Beauty & Health,Mumbai-WH1,7,2,41,205,5677,Low Stock,True
+PRD0406,Bajaj Face Cream Classic,Beauty & Health,Delhi-WH2,432,17,45,135,134784,In Stock,False
+PRD0407,Crossbeats Face Cream Base,Beauty & Health,Hyderabad-WH4,252,8,50,200,407988,In Stock,False
+PRD0408,Ambrane Face Cream Elite,Beauty & Health,Bengaluru-WH3,166,4,38,114,32702,In Stock,False
+PRD0409,Orient Face Cream Standard,Beauty & Health,Delhi-WH2,78,16,19,38,45240,In Stock,False
+PRD0410,Godrej Face Cream Max,Beauty & Health,Bengaluru-WH3,311,4,28,112,24258,In Stock,False
+PRD0411,Havells Hair Oil Standard,Beauty & Health,Delhi-WH2,379,20,46,138,361566,In Stock,False
+PRD0412,Fire-Boltt Hair Oil Pro,Beauty & Health,Hyderabad-WH4,207,5,13,52,81144,In Stock,False
+PRD0413,Berger Hair Oil Lite,Beauty & Health,Delhi-WH2,25,20,34,170,7275,Low Stock,True
+PRD0414,Finolex Hair Oil Lite,Beauty & Health,Chennai-WH5,331,1,17,68,402165,In Stock,False
+PRD0415,Voltas Hair Oil Lite,Beauty & Health,Mumbai-WH1,251,7,27,54,229665,In Stock,False
+PRD0416,Havells Hair Oil Premium,Beauty & Health,Bengaluru-WH3,117,3,45,180,134784,In Stock,False
+PRD0417,Maruti Hair Oil Ultra,Beauty & Health,Delhi-WH2,337,12,14,42,282406,In Stock,False
+PRD0418,Hero Hair Oil Max,Beauty & Health,Kolkata-WH6,260,12,28,84,347100,In Stock,False
+PRD0419,Hero Hair Oil Premium,Beauty & Health,Hyderabad-WH4,336,2,33,132,99792,In Stock,False
+PRD0420,Titan Hair Oil Standard,Beauty & Health,Bengaluru-WH3,185,18,30,60,68820,In Stock,False
+PRD0421,Voltas Shampoo Base,Beauty & Health,Mumbai-WH1,34,13,33,132,17238,In Stock,False
+PRD0422,Reliance Shampoo Standard,Beauty & Health,Bengaluru-WH3,392,13,31,124,669928,In Stock,False
+PRD0423,Amul Shampoo Pro,Beauty & Health,Chennai-WH5,343,12,15,45,118335,In Stock,False
+PRD0424,Titan Shampoo Elite,Beauty & Health,Bengaluru-WH3,280,5,41,82,388640,In Stock,False
+PRD0425,Usha Shampoo Premium,Beauty & Health,Bengaluru-WH3,70,5,11,55,70000,In Stock,False
+PRD0426,HCL Shampoo Max,Beauty & Health,Kolkata-WH6,36,15,49,98,31680,Low Stock,True
+PRD0427,Fire-Boltt Shampoo Premium,Beauty & Health,Bengaluru-WH3,45,2,19,57,49005,In Stock,False
+PRD0428,Fire-Boltt Shampoo Ultra,Beauty & Health,Chennai-WH5,366,12,37,185,413580,In Stock,False
+PRD0429,Marico Shampoo Ultra,Beauty & Health,Mumbai-WH1,232,18,35,175,219472,In Stock,False
+PRD0430,Reliance Shampoo Standard,Beauty & Health,Hyderabad-WH4,218,7,41,82,312612,In Stock,False
+PRD0431,Reliance Sunscreen Lite,Beauty & Health,Kolkata-WH6,224,0,34,170,196448,In Stock,False
+PRD0432,Pidilite Sunscreen Max,Beauty & Health,Chennai-WH5,493,19,43,215,924868,In Stock,False
+PRD0433,Dabur Sunscreen Plus,Beauty & Health,Kolkata-WH6,180,6,25,100,210600,In Stock,False
+PRD0434,Asian Paints Sunscreen Premium,Beauty & Health,Hyderabad-WH4,46,10,50,200,5704,Low Stock,True
+PRD0435,Pebble Sunscreen Base,Beauty & Health,Kolkata-WH6,344,10,47,141,119024,In Stock,False
+PRD0436,Marico Sunscreen Pro,Beauty & Health,Mumbai-WH1,23,18,20,40,7498,In Stock,False
+PRD0437,boAt Sunscreen Ultra,Beauty & Health,Hyderabad-WH4,178,8,41,164,249378,In Stock,False
+PRD0438,Mahindra Sunscreen Elite,Beauty & Health,Hyderabad-WH4,409,0,28,56,153375,In Stock,False
+PRD0439,Crompton Sunscreen Plus,Beauty & Health,Hyderabad-WH4,495,12,45,180,857835,In Stock,False
+PRD0440,Usha Sunscreen Lite,Beauty & Health,Hyderabad-WH4,390,12,37,148,105300,In Stock,False
+PRD0441,Asian Paints Multivitamins Classic,Beauty & Health,Mumbai-WH1,230,13,29,87,233220,In Stock,False
+PRD0442,Orient Multivitamins Plus,Beauty & Health,Bengaluru-WH3,353,10,12,24,359354,In Stock,False
+PRD0443,Voltas Multivitamins Base,Beauty & Health,Kolkata-WH6,180,7,30,150,266760,In Stock,False
+PRD0444,Crossbeats Multivitamins Premium,Beauty & Health,Bengaluru-WH3,378,18,34,170,416556,In Stock,False
+PRD0445,Godrej Multivitamins Lite,Beauty & Health,Mumbai-WH1,225,20,15,60,27675,In Stock,False
+PRD0446,Polycab Multivitamins Pro,Beauty & Health,Bengaluru-WH3,194,6,24,48,145306,In Stock,False
+PRD0447,Infosys Multivitamins Base,Beauty & Health,Delhi-WH2,238,11,10,40,480284,In Stock,False
+PRD0448,Polycab Multivitamins Lite,Beauty & Health,Hyderabad-WH4,82,6,39,195,40098,In Stock,False
+PRD0449,Asian Paints Multivitamins Base,Beauty & Health,Chennai-WH5,436,9,30,120,166116,In Stock,False
+PRD0450,Pidilite Multivitamins Premium,Beauty & Health,Hyderabad-WH4,472,13,28,84,844408,In Stock,False
+PRD0451,Dabur Protein Powder Base,Beauty & Health,Kolkata-WH6,134,7,28,112,162274,In Stock,False
+PRD0452,Usha Protein Powder Plus,Beauty & Health,Chennai-WH5,37,3,29,145,53465,In Stock,False
+PRD0453,Ambrane Protein Powder Max,Beauty & Health,Delhi-WH2,125,8,48,192,11375,In Stock,False
+PRD0454,Bajaj Protein Powder Pro,Beauty & Health,Bengaluru-WH3,115,13,46,184,118795,In Stock,False
+PRD0455,Infosys Protein Powder Plus,Beauty & Health,Delhi-WH2,346,4,45,135,314860,In Stock,False
+PRD0456,Hindusta Unilever Protein Powder Max,Beauty & Health,Delhi-WH2,256,19,36,180,534016,In Stock,False
+PRD0457,Havells Protein Powder Ultra,Beauty & Health,Kolkata-WH6,418,16,44,176,476102,In Stock,False
+PRD0458,Hindusta Unilever Protein Powder Plus,Beauty & Health,Chennai-WH5,53,14,10,30,89941,In Stock,False
+PRD0459,Asian Paints Protein Powder Standard,Beauty & Health,Mumbai-WH1,58,15,40,160,22968,In Stock,False
+PRD0460,HCL Protein Powder Pro,Beauty & Health,Kolkata-WH6,98,13,28,112,35084,In Stock,False
+PRD0461,Usha Essential Oil Classic,Beauty & Health,Delhi-WH2,299,1,18,54,74152,In Stock,False
+PRD0462,Infosys Essential Oil Plus,Beauty & Health,Hyderabad-WH4,142,9,46,230,101672,In Stock,False
+PRD0463,Maruti Essential Oil Premium,Beauty & Health,Chennai-WH5,312,1,24,48,92976,In Stock,False
+PRD0464,Wipro Essential Oil Lite,Beauty & Health,Delhi-WH2,182,3,16,48,166166,In Stock,False
+PRD0465,Usha Essential Oil Pro,Beauty & Health,Chennai-WH5,201,19,32,160,206628,In Stock,False
+PRD0466,Amul Essential Oil Premium,Beauty & Health,Kolkata-WH6,172,15,50,100,143276,In Stock,False
+PRD0467,Titan Essential Oil Classic,Beauty & Health,Chennai-WH5,40,6,46,92,19080,Low Stock,True
+PRD0468,Ambrane Essential Oil Standard,Beauty & Health,Delhi-WH2,282,8,29,116,171174,In Stock,False
+PRD0469,Polycab Essential Oil Classic,Beauty & Health,Delhi-WH2,43,17,14,56,37152,In Stock,False
+PRD0470,Polycab Essential Oil Base,Beauty & Health,Delhi-WH2,455,13,21,63,798070,In Stock,False
+PRD0471,Titan Kajal Classic,Beauty & Health,Delhi-WH2,17,9,25,125,15249,Low Stock,True
+PRD0472,Havells Kajal Premium,Beauty & Health,Kolkata-WH6,208,3,23,46,69472,In Stock,False
+PRD0473,Asian Paints Kajal Plus,Beauty & Health,Hyderabad-WH4,230,16,47,235,479780,In Stock,False
+PRD0474,V-Guard Kajal Ultra,Beauty & Health,Kolkata-WH6,282,4,30,120,433998,In Stock,False
+PRD0475,Crompton Kajal Pro,Beauty & Health,Kolkata-WH6,78,15,15,75,114582,In Stock,False
+PRD0476,Reliance Kajal Lite,Beauty & Health,Mumbai-WH1,134,9,22,66,167902,In Stock,False
+PRD0477,Hero Kajal Base,Beauty & Health,Bengaluru-WH3,116,1,44,132,184672,In Stock,False
+PRD0478,HCL Kajal Ultra,Beauty & Health,Hyderabad-WH4,483,12,27,108,740922,In Stock,False
+PRD0479,Portronics Kajal Plus,Beauty & Health,Delhi-WH2,172,6,20,60,80152,In Stock,False
+PRD0480,Hero Kajal Ultra,Beauty & Health,Mumbai-WH1,406,4,24,48,618338,In Stock,False
+PRD0481,Syska Lipstick Ultra,Beauty & Health,Delhi-WH2,293,6,16,32,420455,In Stock,False
+PRD0482,Noise Lipstick Plus,Beauty & Health,Hyderabad-WH4,101,14,26,130,10403,In Stock,False
+PRD0483,Maruti Lipstick Plus,Beauty & Health,Hyderabad-WH4,62,11,37,74,129146,In Stock,False
+PRD0484,Pidilite Lipstick Elite,Beauty & Health,Chennai-WH5,397,19,40,160,119497,In Stock,False
+PRD0485,HCL Lipstick Ultra,Beauty & Health,Delhi-WH2,383,8,13,52,217161,In Stock,False
+PRD0486,Noise Lipstick Max,Beauty & Health,Delhi-WH2,482,18,21,84,510920,In Stock,False
+PRD0487,Godrej Lipstick Premium,Beauty & Health,Bengaluru-WH3,14,11,23,69,19054,Low Stock,True
+PRD0488,Usha Lipstick Lite,Beauty & Health,Mumbai-WH1,151,18,39,78,293393,In Stock,False
+PRD0489,Finolex Lipstick Premium,Beauty & Health,Kolkata-WH6,83,4,20,80,12782,In Stock,False
+PRD0490,Voltas Lipstick Max,Beauty & Health,Bengaluru-WH3,224,17,36,180,402752,In Stock,False
+PRD0491,Infosys Face Wash Base,Beauty & Health,Bengaluru-WH3,325,8,41,205,562900,In Stock,False
+PRD0492,Mahindra Face Wash Classic,Beauty & Health,Delhi-WH2,426,8,48,96,282438,In Stock,False
+PRD0493,Syska Face Wash Pro,Beauty & Health,Chennai-WH5,277,14,24,72,253178,In Stock,False
+PRD0494,Titan Face Wash Premium,Beauty & Health,Chennai-WH5,75,2,31,93,47700,In Stock,False
+PRD0495,Wipro Face Wash Pro,Beauty & Health,Kolkata-WH6,20,10,47,235,18120,Low Stock,True
+PRD0496,Amul Face Wash Elite,Beauty & Health,Chennai-WH5,364,4,26,78,239512,In Stock,False
+PRD0497,Havells Face Wash Ultra,Beauty & Health,Chennai-WH5,96,2,38,114,188832,In Stock,False
+PRD0498,V-Guard Face Wash Max,Beauty & Health,Mumbai-WH1,44,16,13,65,80388,In Stock,False
+PRD0499,Amul Face Wash Max,Beauty & Health,Kolkata-WH6,356,17,32,160,370240,In Stock,False
+PRD0500,Noise Face Wash Elite,Beauty & Health,Hyderabad-WH4,469,1,14,70,176344,In Stock,False
+PRD0501,Usha Yoga Mat Elite,Sports & Fitness,Delhi-WH2,408,19,50,150,5745048,In Stock,False
+PRD0502,Infosys Yoga Mat Plus,Sports & Fitness,Chennai-WH5,497,8,49,196,2769781,In Stock,False
+PRD0503,Wipro Yoga Mat Max,Sports & Fitness,Hyderabad-WH4,376,3,17,51,7350800,In Stock,False
+PRD0504,Orient Yoga Mat Ultra,Sports & Fitness,Kolkata-WH6,252,8,34,102,6658092,In Stock,False
+PRD0505,Marico Yoga Mat Pro,Sports & Fitness,Mumbai-WH1,93,11,20,80,453654,In Stock,False
+PRD0506,Finolex Yoga Mat Ultra,Sports & Fitness,Hyderabad-WH4,192,10,21,84,3111936,In Stock,False
+PRD0507,Infosys Yoga Mat Base,Sports & Fitness,Delhi-WH2,435,0,22,66,3347325,In Stock,False
+PRD0508,Reliance Yoga Mat Pro,Sports & Fitness,Mumbai-WH1,154,9,38,190,3684296,In Stock,False
+PRD0509,Noise Yoga Mat Pro,Sports & Fitness,Mumbai-WH1,472,8,31,155,5004144,In Stock,False
+PRD0510,Havells Yoga Mat Elite,Sports & Fitness,Chennai-WH5,440,12,33,132,7439520,In Stock,False
+PRD0511,Pebble Dumbbells Classic,Sports & Fitness,Delhi-WH2,447,14,30,150,10343580,In Stock,False
+PRD0512,Noise Dumbbells Premium,Sports & Fitness,Hyderabad-WH4,462,13,21,63,632940,In Stock,False
+PRD0513,Crossbeats Dumbbells Lite,Sports & Fitness,Delhi-WH2,162,8,36,108,2728566,In Stock,False
+PRD0514,Mahindra Dumbbells Base,Sports & Fitness,Delhi-WH2,163,11,20,60,3311345,In Stock,False
+PRD0515,Hindusta Unilever Dumbbells Elite,Sports & Fitness,Bengaluru-WH3,453,17,35,70,10435761,In Stock,False
+PRD0516,Portronics Dumbbells Pro,Sports & Fitness,Chennai-WH5,14,11,33,99,71344,Low Stock,True
+PRD0517,Mivi Dumbbells Ultra,Sports & Fitness,Bengaluru-WH3,59,13,14,42,330518,In Stock,False
+PRD0518,Crompton Dumbbells Premium,Sports & Fitness,Kolkata-WH6,162,18,30,150,1628586,In Stock,False
+PRD0519,Voltas Dumbbells Ultra,Sports & Fitness,Kolkata-WH6,237,13,19,57,4832193,In Stock,False
+PRD0520,Maruti Dumbbells Plus,Sports & Fitness,Mumbai-WH1,340,13,21,105,4533220,In Stock,False
+PRD0521,Polycab Cricket Bat Pro,Sports & Fitness,Chennai-WH5,132,0,49,196,2979504,In Stock,False
+PRD0522,HCL Cricket Bat Ultra,Sports & Fitness,Delhi-WH2,370,20,16,32,7785910,In Stock,False
+PRD0523,Bajaj Cricket Bat Plus,Sports & Fitness,Kolkata-WH6,273,5,24,48,930930,In Stock,False
+PRD0524,Fire-Boltt Cricket Bat Max,Sports & Fitness,Mumbai-WH1,435,5,19,38,13340580,In Stock,False
+PRD0525,Reliance Cricket Bat Plus,Sports & Fitness,Kolkata-WH6,261,11,17,51,4326858,In Stock,False
+PRD0526,Fire-Boltt Cricket Bat Ultra,Sports & Fitness,Hyderabad-WH4,274,9,41,82,4839662,In Stock,False
+PRD0527,Gizmore Cricket Bat Pro,Sports & Fitness,Bengaluru-WH3,271,17,30,60,1239012,In Stock,False
+PRD0528,Infosys Cricket Bat Ultra,Sports & Fitness,Kolkata-WH6,384,0,18,36,8925696,In Stock,False
+PRD0529,Zebronics Cricket Bat Pro,Sports & Fitness,Hyderabad-WH4,475,14,42,210,8110150,In Stock,False
+PRD0530,Berger Cricket Bat Elite,Sports & Fitness,Kolkata-WH6,167,12,34,136,106713,In Stock,False
+PRD0531,Hindusta Unilever Badminton Racket Standard,Sports & Fitness,Chennai-WH5,396,13,17,51,5687352,In Stock,False
+PRD0532,Orient Badminton Racket Base,Sports & Fitness,Chennai-WH5,92,4,17,85,1944512,In Stock,False
+PRD0533,Gizmore Badminton Racket Lite,Sports & Fitness,Mumbai-WH1,98,9,21,42,1463140,In Stock,False
+PRD0534,Marico Badminton Racket Premium,Sports & Fitness,Chennai-WH5,313,6,26,52,1554045,In Stock,False
+PRD0535,Usha Badminton Racket Lite,Sports & Fitness,Chennai-WH5,480,3,42,84,11154720,In Stock,False
+PRD0536,V-Guard Badminton Racket Lite,Sports & Fitness,Chennai-WH5,78,19,36,144,2125812,In Stock,False
+PRD0537,Mahindra Badminton Racket Premium,Sports & Fitness,Chennai-WH5,49,6,20,40,299194,In Stock,False
+PRD0538,boAt Badminton Racket Elite,Sports & Fitness,Hyderabad-WH4,112,13,37,74,2646224,In Stock,False
+PRD0539,Pebble Badminton Racket Max,Sports & Fitness,Mumbai-WH1,361,0,10,40,3673536,In Stock,False
+PRD0540,Crompton Badminton Racket Ultra,Sports & Fitness,Delhi-WH2,276,17,31,155,680064,In Stock,False
+PRD0541,Wipro Treadmill Pro,Sports & Fitness,Mumbai-WH1,164,10,50,150,3207184,In Stock,False
+PRD0542,Bajaj Treadmill Base,Sports & Fitness,Chennai-WH5,271,0,25,100,2882356,In Stock,False
+PRD0543,Mivi Treadmill Pro,Sports & Fitness,Chennai-WH5,473,5,36,72,7880653,In Stock,False
+PRD0544,Bajaj Treadmill Elite,Sports & Fitness,Delhi-WH2,273,14,37,185,360633,In Stock,False
+PRD0545,Bajaj Electricals Treadmill Plus,Sports & Fitness,Delhi-WH2,432,16,45,225,12180240,In Stock,False
+PRD0546,Portronics Treadmill Base,Sports & Fitness,Hyderabad-WH4,417,2,40,160,203913,In Stock,False
+PRD0547,Mahindra Treadmill Max,Sports & Fitness,Hyderabad-WH4,323,5,44,220,5055919,In Stock,False
+PRD0548,Godrej Treadmill Max,Sports & Fitness,Bengaluru-WH3,222,3,45,90,4439112,In Stock,False
+PRD0549,Berger Treadmill Plus,Sports & Fitness,Delhi-WH2,339,6,42,126,3689337,In Stock,False
+PRD0550,Mivi Treadmill Pro,Sports & Fitness,Chennai-WH5,344,7,44,176,3613720,In Stock,False
+PRD0551,Portronics Cycle Pro,Sports & Fitness,Chennai-WH5,307,15,14,56,4456105,In Stock,False
+PRD0552,Orient Cycle Pro,Sports & Fitness,Hyderabad-WH4,10,7,35,175,82370,Low Stock,True
+PRD0553,Portronics Cycle Base,Sports & Fitness,Kolkata-WH6,216,11,50,150,1904472,In Stock,False
+PRD0554,Crossbeats Cycle Elite,Sports & Fitness,Chennai-WH5,478,3,44,176,8284696,In Stock,False
+PRD0555,Berger Cycle Ultra,Sports & Fitness,Chennai-WH5,65,14,39,195,224250,In Stock,False
+PRD0556,Ambrane Cycle Standard,Sports & Fitness,Bengaluru-WH3,257,18,17,85,201488,In Stock,False
+PRD0557,Mivi Cycle Plus,Sports & Fitness,Kolkata-WH6,126,9,44,176,1045044,In Stock,False
+PRD0558,Noise Cycle Lite,Sports & Fitness,Kolkata-WH6,376,4,11,55,2330824,In Stock,False
+PRD0559,Voltas Cycle Pro,Sports & Fitness,Chennai-WH5,488,12,35,105,1097512,In Stock,False
+PRD0560,Crompton Cycle Plus,Sports & Fitness,Delhi-WH2,424,10,16,80,1983472,In Stock,False
+PRD0561,Bajaj Electricals Football Base,Sports & Fitness,Chennai-WH5,259,5,47,188,3403001,In Stock,False
+PRD0562,ITC Football Base,Sports & Fitness,Kolkata-WH6,139,20,37,74,1719847,In Stock,False
+PRD0563,Orient Football Premium,Sports & Fitness,Chennai-WH5,453,19,18,36,12040287,In Stock,False
+PRD0564,Polycab Football Pro,Sports & Fitness,Chennai-WH5,243,13,19,95,5641488,In Stock,False
+PRD0565,Marico Football Max,Sports & Fitness,Chennai-WH5,391,19,38,190,5242528,In Stock,False
+PRD0566,HDFC Football Max,Sports & Fitness,Chennai-WH5,1,1,45,180,14719,Low Stock,True
+PRD0567,Portronics Football Ultra,Sports & Fitness,Bengaluru-WH3,130,19,45,180,3343730,In Stock,False
+PRD0568,Hero Football Lite,Sports & Fitness,Delhi-WH2,488,19,42,168,3127592,In Stock,False
+PRD0569,Bajaj Electricals Football Lite,Sports & Fitness,Hyderabad-WH4,124,16,28,112,145452,In Stock,False
+PRD0570,Asian Paints Football Base,Sports & Fitness,Chennai-WH5,297,3,44,220,1568754,In Stock,False
+PRD0571,Bajaj Electricals Swimming Goggles Lite,Sports & Fitness,Bengaluru-WH3,14,5,26,52,184226,Low Stock,True
+PRD0572,Syska Swimming Goggles Elite,Sports & Fitness,Hyderabad-WH4,327,0,42,168,5599875,In Stock,False
+PRD0573,Pebble Swimming Goggles Ultra,Sports & Fitness,Delhi-WH2,454,12,12,36,10096506,In Stock,False
+PRD0574,Berger Swimming Goggles Plus,Sports & Fitness,Chennai-WH5,204,19,28,56,4547976,In Stock,False
+PRD0575,Pidilite Swimming Goggles Ultra,Sports & Fitness,Bengaluru-WH3,138,11,44,88,2956236,In Stock,False
+PRD0576,Hero Swimming Goggles Standard,Sports & Fitness,Chennai-WH5,449,17,44,132,181396,In Stock,False
+PRD0577,Wipro Swimming Goggles Ultra,Sports & Fitness,Kolkata-WH6,247,17,29,87,3791450,In Stock,False
+PRD0578,Dabur Swimming Goggles Elite,Sports & Fitness,Kolkata-WH6,242,3,26,104,6776968,In Stock,False
+PRD0579,Infosys Swimming Goggles Max,Sports & Fitness,Bengaluru-WH3,76,0,38,76,2510812,In Stock,False
+PRD0580,Pidilite Swimming Goggles Classic,Sports & Fitness,Kolkata-WH6,347,12,32,160,6159597,In Stock,False
+PRD0581,Gizmore Gym Gloves Premium,Sports & Fitness,Bengaluru-WH3,445,20,48,144,4176325,In Stock,False
+PRD0582,Dabur Gym Gloves Premium,Sports & Fitness,Chennai-WH5,149,8,16,48,1881423,In Stock,False
+PRD0583,Voltas Gym Gloves Lite,Sports & Fitness,Hyderabad-WH4,432,14,28,56,4395168,In Stock,False
+PRD0584,Polycab Gym Gloves Ultra,Sports & Fitness,Kolkata-WH6,369,3,11,55,10486611,In Stock,False
+PRD0585,V-Guard Gym Gloves Ultra,Sports & Fitness,Mumbai-WH1,329,3,12,36,5757500,In Stock,False
+PRD0586,ITC Gym Gloves Plus,Sports & Fitness,Mumbai-WH1,352,7,17,68,9190016,In Stock,False
+PRD0587,Havells Gym Gloves Plus,Sports & Fitness,Chennai-WH5,67,1,48,240,1041113,In Stock,False
+PRD0588,Dabur Gym Gloves Standard,Sports & Fitness,Chennai-WH5,175,12,37,148,2039450,In Stock,False
+PRD0589,Finolex Gym Gloves Ultra,Sports & Fitness,Delhi-WH2,193,3,19,76,3132776,In Stock,False
+PRD0590,HCL Gym Gloves Plus,Sports & Fitness,Delhi-WH2,223,10,40,200,5645691,In Stock,False
+PRD0591,Portronics Resistance Band Ultra,Sports & Fitness,Chennai-WH5,92,0,17,68,1660784,In Stock,False
+PRD0592,Zebronics Resistance Band Plus,Sports & Fitness,Hyderabad-WH4,325,0,28,112,5631925,In Stock,False
+PRD0593,Orient Resistance Band Standard,Sports & Fitness,Bengaluru-WH3,461,17,34,136,454085,In Stock,False
+PRD0594,boAt Resistance Band Standard,Sports & Fitness,Chennai-WH5,305,13,24,96,6081395,In Stock,False
+PRD0595,Amul Resistance Band Elite,Sports & Fitness,Chennai-WH5,421,7,24,96,2739868,In Stock,False
+PRD0596,Voltas Resistance Band Pro,Sports & Fitness,Bengaluru-WH3,41,10,18,72,1056693,In Stock,False
+PRD0597,Syska Resistance Band Plus,Sports & Fitness,Mumbai-WH1,359,0,48,144,12258055,In Stock,False
+PRD0598,V-Guard Resistance Band Classic,Sports & Fitness,Mumbai-WH1,94,15,15,45,395176,In Stock,False
+PRD0599,Bajaj Electricals Resistance Band Ultra,Sports & Fitness,Hyderabad-WH4,496,5,39,195,6124608,In Stock,False
+PRD0600,Pebble Resistance Band Max,Sports & Fitness,Chennai-WH5,279,11,25,100,8174700,In Stock,False
+PRD0601,boAt Board Game Ultra,Toys & Baby,Delhi-WH2,283,5,30,120,142915,In Stock,False
+PRD0602,ITC Board Game Max,Toys & Baby,Kolkata-WH6,177,10,18,36,77172,In Stock,False
+PRD0603,Finolex Board Game Max,Toys & Baby,Bengaluru-WH3,167,19,41,82,198062,In Stock,False
+PRD0604,Pebble Board Game Base,Toys & Baby,Chennai-WH5,172,20,13,26,373584,In Stock,False
+PRD0605,Hindusta Unilever Board Game Standard,Toys & Baby,Hyderabad-WH4,47,14,26,104,37788,In Stock,False
+PRD0606,Fire-Boltt Board Game Premium,Toys & Baby,Kolkata-WH6,391,6,33,132,313973,In Stock,False
+PRD0607,Godrej Board Game Ultra,Toys & Baby,Kolkata-WH6,447,9,43,86,472032,In Stock,False
+PRD0608,Crompton Board Game Classic,Toys & Baby,Kolkata-WH6,297,18,29,145,340659,In Stock,False
+PRD0609,Maruti Board Game Elite,Toys & Baby,Delhi-WH2,433,1,48,192,67548,In Stock,False
+PRD0610,Berger Board Game Classic,Toys & Baby,Delhi-WH2,273,6,11,22,77259,In Stock,False
+PRD0611,Syska Educational Toy Elite,Toys & Baby,Kolkata-WH6,42,6,14,42,124236,In Stock,False
+PRD0612,Polycab Educational Toy Pro,Toys & Baby,Hyderabad-WH4,307,1,21,105,208760,In Stock,False
+PRD0613,Voltas Educational Toy Standard,Toys & Baby,Mumbai-WH1,89,11,45,135,88733,In Stock,False
+PRD0614,Berger Educational Toy Ultra,Toys & Baby,Bengaluru-WH3,100,17,10,50,57700,In Stock,False
+PRD0615,Havells Educational Toy Plus,Toys & Baby,Delhi-WH2,32,3,30,150,82464,In Stock,False
+PRD0616,Portronics Educational Toy Pro,Toys & Baby,Bengaluru-WH3,167,7,23,115,33567,In Stock,False
+PRD0617,Hero Educational Toy Ultra,Toys & Baby,Mumbai-WH1,262,11,46,230,183400,In Stock,False
+PRD0618,Pidilite Educational Toy Standard,Toys & Baby,Hyderabad-WH4,149,15,27,54,364901,In Stock,False
+PRD0619,Crossbeats Educational Toy Premium,Toys & Baby,Chennai-WH5,193,12,20,40,549857,In Stock,False
+PRD0620,Godrej Educational Toy Pro,Toys & Baby,Delhi-WH2,416,18,35,140,703040,In Stock,False
+PRD0621,Portronics Soft Toy Standard,Toys & Baby,Bengaluru-WH3,220,1,26,52,75020,In Stock,False
+PRD0622,Crompton Soft Toy Lite,Toys & Baby,Chennai-WH5,24,17,44,176,44712,Low Stock,True
+PRD0623,Usha Soft Toy Ultra,Toys & Baby,Delhi-WH2,8,5,44,132,12096,Low Stock,True
+PRD0624,Tata Soft Toy Ultra,Toys & Baby,Hyderabad-WH4,276,16,48,192,306912,In Stock,False
+PRD0625,Bajaj Soft Toy Lite,Toys & Baby,Bengaluru-WH3,150,16,34,136,98550,In Stock,False
+PRD0626,Titan Soft Toy Max,Toys & Baby,Chennai-WH5,370,11,39,195,193140,In Stock,False
+PRD0627,boAt Soft Toy Max,Toys & Baby,Hyderabad-WH4,448,10,33,132,1533952,In Stock,False
+PRD0628,Voltas Soft Toy Premium,Toys & Baby,Chennai-WH5,379,1,17,51,619286,In Stock,False
+PRD0629,Marico Soft Toy Pro,Toys & Baby,Hyderabad-WH4,381,17,47,94,800862,In Stock,False
+PRD0630,Bajaj Electricals Soft Toy Lite,Toys & Baby,Kolkata-WH6,276,19,22,110,160356,In Stock,False
+PRD0631,Finolex Remote Control Car Plus,Toys & Baby,Chennai-WH5,474,16,31,124,1233348,In Stock,False
+PRD0632,Orient Remote Control Car Premium,Toys & Baby,Delhi-WH2,50,13,27,135,118750,In Stock,False
+PRD0633,boAt Remote Control Car Plus,Toys & Baby,Mumbai-WH1,267,5,16,48,547083,In Stock,False
+PRD0634,Pidilite Remote Control Car Classic,Toys & Baby,Bengaluru-WH3,270,13,42,84,298620,In Stock,False
+PRD0635,Usha Remote Control Car Ultra,Toys & Baby,Chennai-WH5,312,2,41,164,488904,In Stock,False
+PRD0636,Titan Remote Control Car Pro,Toys & Baby,Kolkata-WH6,454,19,11,33,140740,In Stock,False
+PRD0637,Bajaj Electricals Remote Control Car Base,Toys & Baby,Bengaluru-WH3,295,10,13,39,405035,In Stock,False
+PRD0638,Infosys Remote Control Car Plus,Toys & Baby,Delhi-WH2,216,7,47,188,419904,In Stock,False
+PRD0639,Amul Remote Control Car Max,Toys & Baby,Kolkata-WH6,336,16,30,60,809424,In Stock,False
+PRD0640,boAt Remote Control Car Ultra,Toys & Baby,Delhi-WH2,393,4,30,150,528978,In Stock,False
+PRD0641,Berger Building Blocks Premium,Toys & Baby,Chennai-WH5,62,7,17,34,9858,In Stock,False
+PRD0642,Voltas Building Blocks Base,Toys & Baby,Chennai-WH5,272,15,18,72,385968,In Stock,False
+PRD0643,Voltas Building Blocks Classic,Toys & Baby,Mumbai-WH1,161,7,32,160,348726,In Stock,False
+PRD0644,Zebronics Building Blocks Standard,Toys & Baby,Bengaluru-WH3,353,17,43,86,154614,In Stock,False
+PRD0645,Gizmore Building Blocks Base,Toys & Baby,Bengaluru-WH3,21,1,28,84,63693,Low Stock,True
+PRD0646,Orient Building Blocks Max,Toys & Baby,Hyderabad-WH4,236,2,23,92,213580,In Stock,False
+PRD0647,Ambrane Building Blocks Plus,Toys & Baby,Hyderabad-WH4,105,4,34,170,173565,In Stock,False
+PRD0648,Syska Building Blocks Lite,Toys & Baby,Kolkata-WH6,178,19,42,210,330902,In Stock,False
+PRD0649,Infosys Building Blocks Premium,Toys & Baby,Chennai-WH5,180,1,25,50,361980,In Stock,False
+PRD0650,Polycab Building Blocks Lite,Toys & Baby,Mumbai-WH1,164,11,37,148,40508,In Stock,False
+PRD0651,Fire-Boltt Puzzle Set Classic,Toys & Baby,Hyderabad-WH4,44,12,31,93,46376,In Stock,False
+PRD0652,Tata Puzzle Set Max,Toys & Baby,Bengaluru-WH3,95,3,32,64,120650,In Stock,False
+PRD0653,Havells Puzzle Set Plus,Toys & Baby,Mumbai-WH1,201,4,49,147,151554,In Stock,False
+PRD0654,Crossbeats Puzzle Set Elite,Toys & Baby,Delhi-WH2,233,17,11,55,188031,In Stock,False
+PRD0655,Mahindra Puzzle Set Elite,Toys & Baby,Delhi-WH2,2,1,31,93,4172,Low Stock,True
+PRD0656,Wipro Puzzle Set Standard,Toys & Baby,Bengaluru-WH3,413,2,26,130,349811,In Stock,False
+PRD0657,Noise Puzzle Set Ultra,Toys & Baby,Kolkata-WH6,53,14,49,196,78493,In Stock,False
+PRD0658,Pebble Puzzle Set Standard,Toys & Baby,Bengaluru-WH3,274,13,50,200,449634,In Stock,False
+PRD0659,V-Guard Puzzle Set Lite,Toys & Baby,Kolkata-WH6,19,17,22,44,26638,Low Stock,True
+PRD0660,Hindusta Unilever Puzzle Set Elite,Toys & Baby,Delhi-WH2,4,3,26,130,13684,Low Stock,True
+PRD0661,Fire-Boltt Baby Stroller Classic,Toys & Baby,Mumbai-WH1,478,8,42,168,877130,In Stock,False
+PRD0662,Titan Baby Stroller Base,Toys & Baby,Chennai-WH5,59,7,43,172,77408,In Stock,False
+PRD0663,Pebble Baby Stroller Pro,Toys & Baby,Mumbai-WH1,210,13,46,230,260400,In Stock,False
+PRD0664,Amul Baby Stroller Max,Toys & Baby,Kolkata-WH6,387,0,48,144,142416,In Stock,False
+PRD0665,Berger Baby Stroller Plus,Toys & Baby,Chennai-WH5,390,16,27,135,268320,In Stock,False
+PRD0666,Syska Baby Stroller Pro,Toys & Baby,Mumbai-WH1,491,7,32,128,285762,In Stock,False
+PRD0667,Portronics Baby Stroller Base,Toys & Baby,Hyderabad-WH4,232,3,18,90,228288,In Stock,False
+PRD0668,Gizmore Baby Stroller Premium,Toys & Baby,Chennai-WH5,328,17,37,74,839352,In Stock,False
+PRD0669,Crossbeats Baby Stroller Elite,Toys & Baby,Kolkata-WH6,426,1,27,81,596400,In Stock,False
+PRD0670,Noise Baby Stroller Premium,Toys & Baby,Mumbai-WH1,257,16,43,215,263425,In Stock,False
+PRD0671,Dabur Diaper Standard,Toys & Baby,Chennai-WH5,226,7,32,96,303970,In Stock,False
+PRD0672,ITC Diaper Lite,Toys & Baby,Hyderabad-WH4,389,0,40,160,490918,In Stock,False
+PRD0673,Dabur Diaper Ultra,Toys & Baby,Mumbai-WH1,4,4,48,96,5576,Low Stock,True
+PRD0674,Polycab Diaper Pro,Toys & Baby,Hyderabad-WH4,422,0,50,150,76382,In Stock,False
+PRD0675,Pidilite Diaper Standard,Toys & Baby,Bengaluru-WH3,68,5,32,64,107780,In Stock,False
+PRD0676,Berger Diaper Standard,Toys & Baby,Delhi-WH2,433,2,20,40,316523,In Stock,False
+PRD0677,Berger Diaper Pro,Toys & Baby,Mumbai-WH1,236,8,18,72,778564,In Stock,False
+PRD0678,Voltas Diaper Lite,Toys & Baby,Kolkata-WH6,362,18,41,164,840926,In Stock,False
+PRD0679,Mivi Diaper Pro,Toys & Baby,Bengaluru-WH3,81,7,27,54,197154,In Stock,False
+PRD0680,Godrej Diaper Classic,Toys & Baby,Bengaluru-WH3,365,3,49,147,367920,In Stock,False
+PRD0681,Finolex Baby Oil Elite,Toys & Baby,Mumbai-WH1,487,18,39,195,1048998,In Stock,False
+PRD0682,Crossbeats Baby Oil Plus,Toys & Baby,Hyderabad-WH4,130,6,46,138,375700,In Stock,False
+PRD0683,Syska Baby Oil Premium,Toys & Baby,Delhi-WH2,253,5,29,116,313973,In Stock,False
+PRD0684,Zebronics Baby Oil Premium,Toys & Baby,Delhi-WH2,455,13,23,46,980070,In Stock,False
+PRD0685,Hindusta Unilever Baby Oil Standard,Toys & Baby,Mumbai-WH1,318,6,13,52,466824,In Stock,False
+PRD0686,Maruti Baby Oil Pro,Toys & Baby,Delhi-WH2,50,1,34,170,35600,In Stock,False
+PRD0687,Hero Baby Oil Max,Toys & Baby,Kolkata-WH6,204,20,38,114,401268,In Stock,False
+PRD0688,Godrej Baby Oil Premium,Toys & Baby,Chennai-WH5,17,10,12,36,30974,In Stock,False
+PRD0689,Wipro Baby Oil Classic,Toys & Baby,Chennai-WH5,69,11,14,42,72450,In Stock,False
+PRD0690,Pidilite Baby Oil Pro,Toys & Baby,Bengaluru-WH3,15,14,10,50,32850,In Stock,False
+PRD0691,Titan Rattle Set Premium,Toys & Baby,Hyderabad-WH4,30,7,16,48,44790,In Stock,False
+PRD0692,Reliance Rattle Set Classic,Toys & Baby,Delhi-WH2,13,9,39,195,11193,Low Stock,True
+PRD0693,Maruti Rattle Set Lite,Toys & Baby,Kolkata-WH6,398,14,12,36,383274,In Stock,False
+PRD0694,Pidilite Rattle Set Standard,Toys & Baby,Hyderabad-WH4,104,18,44,88,149136,In Stock,False
+PRD0695,Ambrane Rattle Set Pro,Toys & Baby,Hyderabad-WH4,38,4,34,102,100396,In Stock,False
+PRD0696,Crossbeats Rattle Set Pro,Toys & Baby,Bengaluru-WH3,421,8,26,130,925779,In Stock,False
+PRD0697,Infosys Rattle Set Base,Toys & Baby,Chennai-WH5,291,2,20,100,657078,In Stock,False
+PRD0698,Finolex Rattle Set Max,Toys & Baby,Hyderabad-WH4,156,1,25,75,217932,In Stock,False
+PRD0699,Berger Rattle Set Lite,Toys & Baby,Delhi-WH2,438,11,18,54,360474,In Stock,False
+PRD0700,Mahindra Rattle Set Pro,Toys & Baby,Bengaluru-WH3,7,2,19,57,9660,Low Stock,True
+PRD0701,Pidilite Basmati Rice Elite,Grocery,Kolkata-WH6,42,0,19,76,37296,In Stock,False
+PRD0702,Havells Basmati Rice Standard,Grocery,Delhi-WH2,228,12,40,80,229824,In Stock,False
+PRD0703,Asian Paints Basmati Rice Classic,Grocery,Bengaluru-WH3,215,10,50,100,46655,In Stock,False
+PRD0704,Tata Basmati Rice Elite,Grocery,Kolkata-WH6,209,14,15,60,68552,In Stock,False
+PRD0705,ITC Basmati Rice Base,Grocery,Bengaluru-WH3,68,11,27,108,32708,In Stock,False
+PRD0706,Finolex Basmati Rice Classic,Grocery,Mumbai-WH1,67,18,16,32,29145,In Stock,False
+PRD0707,Gizmore Basmati Rice Premium,Grocery,Delhi-WH2,472,13,15,75,331816,In Stock,False
+PRD0708,Finolex Basmati Rice Plus,Grocery,Hyderabad-WH4,310,8,44,220,225990,In Stock,False
+PRD0709,Godrej Basmati Rice Standard,Grocery,Kolkata-WH6,449,13,42,126,227194,In Stock,False
+PRD0710,V-Guard Basmati Rice Lite,Grocery,Chennai-WH5,30,16,10,40,11010,In Stock,False
+PRD0711,Syska Organic Dal Ultra,Grocery,Kolkata-WH6,12,3,42,210,6480,Low Stock,True
+PRD0712,Noise Organic Dal Premium,Grocery,Mumbai-WH1,500,18,46,92,465500,In Stock,False
+PRD0713,Polycab Organic Dal Plus,Grocery,Delhi-WH2,433,2,46,230,318688,In Stock,False
+PRD0714,Noise Organic Dal Base,Grocery,Kolkata-WH6,206,16,46,138,161710,In Stock,False
+PRD0715,Infosys Organic Dal Standard,Grocery,Delhi-WH2,320,10,18,54,69760,In Stock,False
+PRD0716,Pebble Organic Dal Pro,Grocery,Bengaluru-WH3,261,14,37,74,25056,In Stock,False
+PRD0717,Syska Organic Dal Standard,Grocery,Chennai-WH5,114,13,46,184,123120,In Stock,False
+PRD0718,ITC Organic Dal Premium,Grocery,Delhi-WH2,75,2,10,30,27150,In Stock,False
+PRD0719,Dabur Organic Dal Plus,Grocery,Mumbai-WH1,251,11,19,76,123492,In Stock,False
+PRD0720,Havells Organic Dal Lite,Grocery,Mumbai-WH1,111,0,10,20,143523,In Stock,False
+PRD0721,Mivi Desi Ghee Premium,Grocery,Kolkata-WH6,127,12,28,140,58547,In Stock,False
+PRD0722,Pidilite Desi Ghee Premium,Grocery,Mumbai-WH1,313,16,10,20,66043,In Stock,False
+PRD0723,V-Guard Desi Ghee Ultra,Grocery,Mumbai-WH1,207,18,10,20,187542,In Stock,False
+PRD0724,Asian Paints Desi Ghee Classic,Grocery,Delhi-WH2,379,7,50,150,136440,In Stock,False
+PRD0725,Orient Desi Ghee Ultra,Grocery,Kolkata-WH6,478,18,39,195,472742,In Stock,False
+PRD0726,Marico Desi Ghee Plus,Grocery,Kolkata-WH6,4,2,44,176,5148,Low Stock,True
+PRD0727,Crompton Desi Ghee Classic,Grocery,Hyderabad-WH4,443,15,45,180,393827,In Stock,False
+PRD0728,Mivi Desi Ghee Standard,Grocery,Chennai-WH5,25,18,11,44,15725,In Stock,False
+PRD0729,Tata Desi Ghee Lite,Grocery,Mumbai-WH1,222,7,17,85,258408,In Stock,False
+PRD0730,Hindusta Unilever Desi Ghee Pro,Grocery,Bengaluru-WH3,451,2,15,60,558338,In Stock,False
+PRD0731,ITC Cold Pressed Oil Lite,Grocery,Chennai-WH5,256,9,19,57,207616,In Stock,False
+PRD0732,Orient Cold Pressed Oil Lite,Grocery,Mumbai-WH1,133,11,10,30,165319,In Stock,False
+PRD0733,Maruti Cold Pressed Oil Standard,Grocery,Mumbai-WH1,211,14,36,144,99381,In Stock,False
+PRD0734,Mivi Cold Pressed Oil Lite,Grocery,Bengaluru-WH3,305,18,26,104,33550,In Stock,False
+PRD0735,HDFC Cold Pressed Oil Lite,Grocery,Mumbai-WH1,75,1,13,39,21450,In Stock,False
+PRD0736,V-Guard Cold Pressed Oil Elite,Grocery,Kolkata-WH6,8,8,18,36,6632,Low Stock,True
+PRD0737,Asian Paints Cold Pressed Oil Base,Grocery,Kolkata-WH6,471,7,18,90,94200,In Stock,False
+PRD0738,Mivi Cold Pressed Oil Plus,Grocery,Delhi-WH2,76,1,35,140,91352,In Stock,False
+PRD0739,Finolex Cold Pressed Oil Base,Grocery,Delhi-WH2,134,14,30,90,12864,In Stock,False
+PRD0740,Crossbeats Cold Pressed Oil Ultra,Grocery,Delhi-WH2,210,7,29,116,141960,In Stock,False
+PRD0741,Tata Atta Base,Grocery,Delhi-WH2,150,19,15,30,98850,In Stock,False
+PRD0742,Titan Atta Standard,Grocery,Mumbai-WH1,359,17,31,62,473162,In Stock,False
+PRD0743,Bajaj Electricals Atta Elite,Grocery,Kolkata-WH6,321,10,21,84,306234,In Stock,False
+PRD0744,Godrej Atta Pro,Grocery,Mumbai-WH1,340,1,35,70,276420,In Stock,False
+PRD0745,Orient Atta Pro,Grocery,Bengaluru-WH3,112,13,13,65,108080,In Stock,False
+PRD0746,Godrej Atta Premium,Grocery,Delhi-WH2,65,16,45,135,82940,In Stock,False
+PRD0747,Reliance Atta Classic,Grocery,Delhi-WH2,45,4,21,105,33075,In Stock,False
+PRD0748,Crossbeats Atta Premium,Grocery,Kolkata-WH6,64,8,11,44,28096,In Stock,False
+PRD0749,Hero Atta Max,Grocery,Bengaluru-WH3,219,7,37,148,31974,In Stock,False
+PRD0750,HDFC Atta Classic,Grocery,Kolkata-WH6,23,5,29,87,9338,Low Stock,True
+PRD0751,Voltas Honey Standard,Grocery,Bengaluru-WH3,436,12,50,100,58424,In Stock,False
+PRD0752,Hindusta Unilever Honey Lite,Grocery,Mumbai-WH1,170,11,25,125,77690,In Stock,False
+PRD0753,Asian Paints Honey Pro,Grocery,Delhi-WH2,158,8,41,123,103174,In Stock,False
+PRD0754,Voltas Honey Max,Grocery,Hyderabad-WH4,42,17,41,123,18018,In Stock,False
+PRD0755,Zebronics Honey Base,Grocery,Hyderabad-WH4,51,5,18,90,41004,In Stock,False
+PRD0756,Syska Honey Classic,Grocery,Kolkata-WH6,200,12,36,144,136800,In Stock,False
+PRD0757,ITC Honey Ultra,Grocery,Bengaluru-WH3,438,2,18,90,199728,In Stock,False
+PRD0758,Crompton Honey Premium,Grocery,Chennai-WH5,261,9,27,135,84042,In Stock,False
+PRD0759,HCL Honey Max,Grocery,Mumbai-WH1,81,20,47,141,86751,In Stock,False
+PRD0760,Titan Honey Plus,Grocery,Chennai-WH5,211,9,16,80,71740,In Stock,False
+PRD0761,ITC Dry Fruits Mix Lite,Grocery,Bengaluru-WH3,120,6,30,120,127920,In Stock,False
+PRD0762,Hindusta Unilever Dry Fruits Mix Lite,Grocery,Chennai-WH5,214,4,34,68,182114,In Stock,False
+PRD0763,Gizmore Dry Fruits Mix Plus,Grocery,Hyderabad-WH4,404,8,50,200,333300,In Stock,False
+PRD0764,Crompton Dry Fruits Mix Ultra,Grocery,Mumbai-WH1,294,12,21,84,107310,In Stock,False
+PRD0765,Titan Dry Fruits Mix Lite,Grocery,Mumbai-WH1,45,19,17,85,7425,In Stock,False
+PRD0766,Berger Dry Fruits Mix Plus,Grocery,Delhi-WH2,41,14,43,129,41246,Low Stock,True
+PRD0767,boAt Dry Fruits Mix Classic,Grocery,Delhi-WH2,119,10,29,116,34391,In Stock,False
+PRD0768,Havells Dry Fruits Mix Lite,Grocery,Chennai-WH5,91,16,14,56,13195,In Stock,False
+PRD0769,Voltas Dry Fruits Mix Standard,Grocery,Hyderabad-WH4,11,4,35,70,4983,Low Stock,True
+PRD0770,Pidilite Dry Fruits Mix Classic,Grocery,Delhi-WH2,51,2,12,36,14535,In Stock,False
+PRD0771,Berger Green Tea Plus,Grocery,Mumbai-WH1,336,5,27,81,319872,In Stock,False
+PRD0772,Hero Green Tea Pro,Grocery,Bengaluru-WH3,205,19,13,65,269370,In Stock,False
+PRD0773,Havells Green Tea Elite,Grocery,Kolkata-WH6,72,20,16,80,14544,In Stock,False
+PRD0774,Voltas Green Tea Pro,Grocery,Kolkata-WH6,83,6,13,26,108647,In Stock,False
+PRD0775,Amul Green Tea Standard,Grocery,Chennai-WH5,423,19,47,94,566397,In Stock,False
+PRD0776,Gizmore Green Tea Max,Grocery,Mumbai-WH1,141,6,12,48,35673,In Stock,False
+PRD0777,Bajaj Green Tea Elite,Grocery,Kolkata-WH6,54,3,41,205,46332,In Stock,False
+PRD0778,Bajaj Green Tea Plus,Grocery,Kolkata-WH6,23,12,16,48,12558,In Stock,False
+PRD0779,HDFC Green Tea Max,Grocery,Kolkata-WH6,315,16,13,52,82215,In Stock,False
+PRD0780,Marico Green Tea Ultra,Grocery,Hyderabad-WH4,145,16,50,200,118175,In Stock,False
+PRD0781,Bajaj Electricals Turmeric Powder Pro,Grocery,Delhi-WH2,61,14,14,56,11895,In Stock,False
+PRD0782,Zebronics Turmeric Powder Classic,Grocery,Mumbai-WH1,84,15,17,51,31416,In Stock,False
+PRD0783,ITC Turmeric Powder Classic,Grocery,Chennai-WH5,444,0,38,190,59052,In Stock,False
+PRD0784,Orient Turmeric Powder Standard,Grocery,Kolkata-WH6,389,7,13,65,221730,In Stock,False
+PRD0785,Portronics Turmeric Powder Premium,Grocery,Chennai-WH5,218,16,11,22,63874,In Stock,False
+PRD0786,Dabur Turmeric Powder Premium,Grocery,Delhi-WH2,79,19,18,90,23463,In Stock,False
+PRD0787,boAt Turmeric Powder Elite,Grocery,Chennai-WH5,396,6,17,85,391248,In Stock,False
+PRD0788,Gizmore Turmeric Powder Elite,Grocery,Chennai-WH5,229,3,36,72,127553,In Stock,False
+PRD0789,Marico Turmeric Powder Standard,Grocery,Bengaluru-WH3,7,5,45,225,2429,Low Stock,True
+PRD0790,HCL Turmeric Powder Base,Grocery,Kolkata-WH6,86,9,26,78,42484,In Stock,False
+PRD0791,Hindusta Unilever Spice Kit Classic,Grocery,Delhi-WH2,202,3,21,105,180790,In Stock,False
+PRD0792,Usha Spice Kit Max,Grocery,Kolkata-WH6,196,12,48,192,199724,In Stock,False
+PRD0793,Voltas Spice Kit Max,Grocery,Mumbai-WH1,341,12,40,200,336908,In Stock,False
+PRD0794,Orient Spice Kit Ultra,Grocery,Chennai-WH5,33,3,37,111,17985,Low Stock,True
+PRD0795,Orient Spice Kit Standard,Grocery,Mumbai-WH1,383,10,19,38,249333,In Stock,False
+PRD0796,Voltas Spice Kit Elite,Grocery,Hyderabad-WH4,152,2,19,38,12464,In Stock,False
+PRD0797,Voltas Spice Kit Ultra,Grocery,Mumbai-WH1,101,20,33,132,53328,In Stock,False
+PRD0798,Infosys Spice Kit Plus,Grocery,Chennai-WH5,108,17,17,51,86940,In Stock,False
+PRD0799,Bajaj Spice Kit Lite,Grocery,Chennai-WH5,277,2,28,84,206919,In Stock,False
+PRD0800,Bajaj Spice Kit Pro,Grocery,Kolkata-WH6,467,13,16,32,437579,In Stock,False
+PRD0801,Voltas Car Cover Pro,Automotive,Delhi-WH2,117,3,12,48,403065,In Stock,False
+PRD0802,Mahindra Car Cover Pro,Automotive,Kolkata-WH6,368,17,33,165,782368,In Stock,False
+PRD0803,Gizmore Car Cover Elite,Automotive,Delhi-WH2,365,19,25,100,1047915,In Stock,False
+PRD0804,Asian Paints Car Cover Max,Automotive,Mumbai-WH1,46,10,15,30,190900,In Stock,False
+PRD0805,Titan Car Cover Standard,Automotive,Bengaluru-WH3,255,4,36,180,582675,In Stock,False
+PRD0806,Havells Car Cover Standard,Automotive,Bengaluru-WH3,217,15,17,51,477183,In Stock,False
+PRD0807,Marico Car Cover Pro,Automotive,Delhi-WH2,381,17,17,34,366903,In Stock,False
+PRD0808,Bajaj Car Cover Premium,Automotive,Delhi-WH2,413,7,16,64,1763097,In Stock,False
+PRD0809,Hindusta Unilever Car Cover Plus,Automotive,Bengaluru-WH3,50,8,31,93,164300,In Stock,False
+PRD0810,Portronics Car Cover Base,Automotive,Hyderabad-WH4,390,5,48,144,2256150,In Stock,False
+PRD0811,Syska Bike Helmet Base,Automotive,Hyderabad-WH4,151,11,28,112,760738,In Stock,False
+PRD0812,Berger Bike Helmet Pro,Automotive,Bengaluru-WH3,72,2,12,60,176832,In Stock,False
+PRD0813,Amul Bike Helmet Elite,Automotive,Chennai-WH5,104,14,13,26,562432,In Stock,False
+PRD0814,Portronics Bike Helmet Ultra,Automotive,Chennai-WH5,134,20,40,120,487760,In Stock,False
+PRD0815,Crompton Bike Helmet Pro,Automotive,Mumbai-WH1,31,15,23,92,142414,In Stock,False
+PRD0816,Godrej Bike Helmet Plus,Automotive,Hyderabad-WH4,8,4,21,42,40024,Low Stock,True
+PRD0817,Dabur Bike Helmet Standard,Automotive,Kolkata-WH6,166,5,39,195,601086,In Stock,False
+PRD0818,Infosys Bike Helmet Lite,Automotive,Bengaluru-WH3,88,12,31,155,243056,In Stock,False
+PRD0819,HDFC Bike Helmet Ultra,Automotive,Bengaluru-WH3,284,1,43,215,1047108,In Stock,False
+PRD0820,Godrej Bike Helmet Plus,Automotive,Hyderabad-WH4,69,20,10,50,125925,In Stock,False
+PRD0821,Orient Car Perfume Base,Automotive,Kolkata-WH6,244,6,14,56,1001620,In Stock,False
+PRD0822,boAt Car Perfume Premium,Automotive,Hyderabad-WH4,495,13,35,105,2157705,In Stock,False
+PRD0823,Pidilite Car Perfume Plus,Automotive,Hyderabad-WH4,111,16,43,215,620268,In Stock,False
+PRD0824,V-Guard Car Perfume Pro,Automotive,Bengaluru-WH3,458,16,11,55,1151412,In Stock,False
+PRD0825,Orient Car Perfume Ultra,Automotive,Kolkata-WH6,90,10,13,52,522090,In Stock,False
+PRD0826,Ambrane Car Perfume Plus,Automotive,Kolkata-WH6,177,16,11,33,547638,In Stock,False
+PRD0827,Dabur Car Perfume Max,Automotive,Bengaluru-WH3,214,19,15,75,837596,In Stock,False
+PRD0828,V-Guard Car Perfume Pro,Automotive,Delhi-WH2,4,2,30,150,22552,Low Stock,True
+PRD0829,Bajaj Electricals Car Perfume Standard,Automotive,Chennai-WH5,242,14,42,210,193842,In Stock,False
+PRD0830,Maruti Car Perfume Elite,Automotive,Hyderabad-WH4,130,2,20,40,251290,In Stock,False
+PRD0831,Titan Tyre Inflator Pro,Automotive,Hyderabad-WH4,75,6,21,105,105825,In Stock,False
+PRD0832,HCL Tyre Inflator Max,Automotive,Mumbai-WH1,105,5,21,63,312165,In Stock,False
+PRD0833,Crossbeats Tyre Inflator Elite,Automotive,Mumbai-WH1,52,14,16,64,37908,In Stock,False
+PRD0834,Polycab Tyre Inflator Premium,Automotive,Hyderabad-WH4,310,3,17,85,977430,In Stock,False
+PRD0835,Usha Tyre Inflator Lite,Automotive,Chennai-WH5,150,17,20,80,613650,In Stock,False
+PRD0836,HDFC Tyre Inflator Plus,Automotive,Hyderabad-WH4,428,18,45,135,1997904,In Stock,False
+PRD0837,Crossbeats Tyre Inflator Elite,Automotive,Hyderabad-WH4,481,18,16,32,1662336,In Stock,False
+PRD0838,HDFC Tyre Inflator Ultra,Automotive,Delhi-WH2,412,0,21,63,1154424,In Stock,False
+PRD0839,Titan Tyre Inflator Ultra,Automotive,Mumbai-WH1,281,8,10,30,531371,In Stock,False
+PRD0840,Usha Tyre Inflator Classic,Automotive,Mumbai-WH1,253,13,14,28,1484351,In Stock,False
+PRD0841,Havells Dashboard Camera Standard,Automotive,Delhi-WH2,452,2,11,55,811340,In Stock,False
+PRD0842,HDFC Dashboard Camera Elite,Automotive,Bengaluru-WH3,398,0,12,24,1287132,In Stock,False
+PRD0843,Berger Dashboard Camera Ultra,Automotive,Hyderabad-WH4,106,14,21,63,465870,In Stock,False
+PRD0844,Maruti Dashboard Camera Pro,Automotive,Mumbai-WH1,295,14,24,72,464330,In Stock,False
+PRD0845,Bajaj Electricals Dashboard Camera Pro,Automotive,Delhi-WH2,227,17,37,74,425852,In Stock,False
+PRD0846,Berger Dashboard Camera Lite,Automotive,Bengaluru-WH3,16,8,35,70,74864,Low Stock,True
+PRD0847,Amul Dashboard Camera Classic,Automotive,Chennai-WH5,373,10,49,98,1893348,In Stock,False
+PRD0848,Infosys Dashboard Camera Premium,Automotive,Delhi-WH2,377,4,48,240,60697,In Stock,False
+PRD0849,V-Guard Dashboard Camera Base,Automotive,Chennai-WH5,252,2,21,63,461160,In Stock,False
+PRD0850,Pebble Dashboard Camera Elite,Automotive,Bengaluru-WH3,198,20,24,48,751806,In Stock,False
+PRD0851,ITC Car Seat Cover Standard,Automotive,Delhi-WH2,219,13,13,65,897681,In Stock,False
+PRD0852,Zebronics Car Seat Cover Classic,Automotive,Hyderabad-WH4,169,5,20,80,480974,In Stock,False
+PRD0853,V-Guard Car Seat Cover Standard,Automotive,Chennai-WH5,250,20,26,104,995500,In Stock,False
+PRD0854,Ambrane Car Seat Cover Premium,Automotive,Chennai-WH5,0,0,42,168,0,Out of Stock,True
+PRD0855,Pidilite Car Seat Cover Classic,Automotive,Hyderabad-WH4,253,0,33,99,203412,In Stock,False
+PRD0856,HDFC Car Seat Cover Base,Automotive,Chennai-WH5,340,5,16,32,901680,In Stock,False
+PRD0857,Hero Car Seat Cover Ultra,Automotive,Bengaluru-WH3,39,7,33,66,40131,In Stock,False
+PRD0858,Hindusta Unilever Car Seat Cover Pro,Automotive,Chennai-WH5,293,7,12,36,1523014,In Stock,False
+PRD0859,ITC Car Seat Cover Max,Automotive,Delhi-WH2,126,0,23,69,89208,In Stock,False
+PRD0860,ITC Car Seat Cover Lite,Automotive,Bengaluru-WH3,20,20,19,76,8900,In Stock,False
+PRD0861,Pebble Bike Lock Ultra,Automotive,Bengaluru-WH3,316,9,24,96,1195428,In Stock,False
+PRD0862,Ambrane Bike Lock Base,Automotive,Chennai-WH5,437,16,35,140,1973055,In Stock,False
+PRD0863,Bajaj Electricals Bike Lock Ultra,Automotive,Delhi-WH2,99,5,25,100,154737,In Stock,False
+PRD0864,Syska Bike Lock Lite,Automotive,Hyderabad-WH4,83,4,47,94,315068,In Stock,False
+PRD0865,Orient Bike Lock Standard,Automotive,Kolkata-WH6,288,7,44,88,1482336,In Stock,False
+PRD0866,Fire-Boltt Bike Lock Lite,Automotive,Delhi-WH2,138,18,15,30,276138,In Stock,False
+PRD0867,Finolex Bike Lock Standard,Automotive,Bengaluru-WH3,306,19,35,105,1137402,In Stock,False
+PRD0868,Fire-Boltt Bike Lock Lite,Automotive,Hyderabad-WH4,124,6,41,82,71796,In Stock,False
+PRD0869,Hindusta Unilever Bike Lock Ultra,Automotive,Bengaluru-WH3,301,5,33,66,615244,In Stock,False
+PRD0870,Hindusta Unilever Bike Lock Max,Automotive,Kolkata-WH6,304,2,27,81,1093488,In Stock,False
+PRD0871,ITC Car Vacuum Standard,Automotive,Chennai-WH5,407,4,16,48,2205533,In Stock,False
+PRD0872,Voltas Car Vacuum Base,Automotive,Mumbai-WH1,359,15,24,96,2201029,In Stock,False
+PRD0873,Noise Car Vacuum Ultra,Automotive,Bengaluru-WH3,65,15,37,148,233740,In Stock,False
+PRD0874,Hindusta Unilever Car Vacuum Premium,Automotive,Hyderabad-WH4,260,8,50,250,323180,In Stock,False
+PRD0875,Voltas Car Vacuum Lite,Automotive,Hyderabad-WH4,13,1,49,245,8866,Low Stock,True
+PRD0876,Finolex Car Vacuum Max,Automotive,Delhi-WH2,292,17,47,188,1642208,In Stock,False
+PRD0877,Amul Car Vacuum Classic,Automotive,Delhi-WH2,31,3,22,44,7564,In Stock,False
+PRD0878,Crompton Car Vacuum Ultra,Automotive,Bengaluru-WH3,440,0,31,124,2452560,In Stock,False
+PRD0879,Finolex Car Vacuum Base,Automotive,Mumbai-WH1,368,18,18,36,2148384,In Stock,False
+PRD0880,Fire-Boltt Car Vacuum Ultra,Automotive,Chennai-WH5,430,14,13,65,387000,In Stock,False
+PRD0881,Finolex LED Car Lights Ultra,Automotive,Hyderabad-WH4,71,19,26,78,333487,In Stock,False
+PRD0882,Wipro LED Car Lights Lite,Automotive,Delhi-WH2,128,2,18,54,179968,In Stock,False
+PRD0883,Wipro LED Car Lights Max,Automotive,Kolkata-WH6,408,17,30,60,2729928,In Stock,False
+PRD0884,Pidilite LED Car Lights Classic,Automotive,Bengaluru-WH3,474,17,10,50,2072802,In Stock,False
+PRD0885,Voltas LED Car Lights Pro,Automotive,Hyderabad-WH4,252,18,50,150,1713600,In Stock,False
+PRD0886,HCL LED Car Lights Ultra,Automotive,Chennai-WH5,87,17,47,235,261174,In Stock,False
+PRD0887,Gizmore LED Car Lights Classic,Automotive,Mumbai-WH1,446,5,49,196,1949912,In Stock,False
+PRD0888,Finolex LED Car Lights Premium,Automotive,Hyderabad-WH4,340,8,28,56,2085900,In Stock,False
+PRD0889,Asian Paints LED Car Lights Classic,Automotive,Kolkata-WH6,257,16,32,96,1026715,In Stock,False
+PRD0890,V-Guard LED Car Lights Max,Automotive,Kolkata-WH6,164,15,37,111,496100,In Stock,False
+PRD0891,Finolex Engine Oil Ultra,Automotive,Bengaluru-WH3,378,12,42,210,55944,In Stock,False
+PRD0892,Portronics Engine Oil Plus,Automotive,Bengaluru-WH3,398,9,20,60,1049526,In Stock,False
+PRD0893,Bajaj Electricals Engine Oil Classic,Automotive,Chennai-WH5,191,12,15,45,144969,In Stock,False
+PRD0894,Bajaj Electricals Engine Oil Plus,Automotive,Mumbai-WH1,93,3,32,96,227664,In Stock,False
+PRD0895,Wipro Engine Oil Ultra,Automotive,Hyderabad-WH4,339,5,50,200,63393,In Stock,False
+PRD0896,Wipro Engine Oil Plus,Automotive,Chennai-WH5,210,8,22,66,999810,In Stock,False
+PRD0897,Gizmore Engine Oil Lite,Automotive,Delhi-WH2,435,7,20,80,411075,In Stock,False
+PRD0898,Fire-Boltt Engine Oil Base,Automotive,Chennai-WH5,293,0,21,42,1312054,In Stock,False
+PRD0899,Usha Engine Oil Classic,Automotive,Delhi-WH2,213,14,35,70,403209,In Stock,False
+PRD0900,Reliance Engine Oil Lite,Automotive,Bengaluru-WH3,0,0,26,104,0,Out of Stock,True
+PRD0901,Havells Notebook Set Standard,Office Supplies,Bengaluru-WH3,34,20,40,80,20604,Low Stock,True
+PRD0902,Pidilite Notebook Set Ultra,Office Supplies,Mumbai-WH1,314,2,14,42,1245324,In Stock,False
+PRD0903,Polycab Notebook Set Standard,Office Supplies,Chennai-WH5,102,5,44,132,15810,In Stock,False
+PRD0904,Infosys Notebook Set Plus,Office Supplies,Mumbai-WH1,237,18,15,45,292458,In Stock,False
+PRD0905,Amul Notebook Set Elite,Office Supplies,Mumbai-WH1,23,16,36,108,89102,Low Stock,True
+PRD0906,Havells Notebook Set Plus,Office Supplies,Hyderabad-WH4,19,8,30,150,22895,Low Stock,True
+PRD0907,Infosys Notebook Set Max,Office Supplies,Hyderabad-WH4,214,13,13,39,252092,In Stock,False
+PRD0908,Tata Notebook Set Lite,Office Supplies,Kolkata-WH6,362,11,43,86,775404,In Stock,False
+PRD0909,Hero Notebook Set Premium,Office Supplies,Delhi-WH2,116,6,39,156,265060,In Stock,False
+PRD0910,Portronics Notebook Set Plus,Office Supplies,Kolkata-WH6,422,4,37,111,700942,In Stock,False
+PRD0911,HCL Pen Pack Base,Office Supplies,Hyderabad-WH4,444,3,22,44,1134420,In Stock,False
+PRD0912,Finolex Pen Pack Plus,Office Supplies,Hyderabad-WH4,144,9,15,45,110016,In Stock,False
+PRD0913,Hindusta Unilever Pen Pack Standard,Office Supplies,Bengaluru-WH3,199,9,32,64,150643,In Stock,False
+PRD0914,Godrej Pen Pack Max,Office Supplies,Kolkata-WH6,237,12,40,160,484902,In Stock,False
+PRD0915,Bajaj Pen Pack Max,Office Supplies,Hyderabad-WH4,470,6,12,48,1766260,In Stock,False
+PRD0916,Pebble Pen Pack Ultra,Office Supplies,Bengaluru-WH3,319,13,12,24,133342,In Stock,False
+PRD0917,boAt Pen Pack Pro,Office Supplies,Chennai-WH5,174,17,16,80,230376,In Stock,False
+PRD0918,Usha Pen Pack Ultra,Office Supplies,Chennai-WH5,433,19,41,123,1355290,In Stock,False
+PRD0919,Asian Paints Pen Pack Elite,Office Supplies,Delhi-WH2,93,9,12,36,143685,In Stock,False
+PRD0920,Mivi Pen Pack Classic,Office Supplies,Mumbai-WH1,395,15,27,81,765905,In Stock,False
+PRD0921,Finolex Printer Paper Base,Office Supplies,Delhi-WH2,219,16,31,155,784020,In Stock,False
+PRD0922,Havells Printer Paper Elite,Office Supplies,Delhi-WH2,291,11,10,40,512742,In Stock,False
+PRD0923,HCL Printer Paper Max,Office Supplies,Delhi-WH2,115,13,34,68,141335,In Stock,False
+PRD0924,Godrej Printer Paper Ultra,Office Supplies,Chennai-WH5,88,13,22,88,83512,In Stock,False
+PRD0925,Marico Printer Paper Base,Office Supplies,Chennai-WH5,490,10,10,30,1587600,In Stock,False
+PRD0926,Reliance Printer Paper Premium,Office Supplies,Hyderabad-WH4,453,8,30,90,2513244,In Stock,False
+PRD0927,Crompton Printer Paper Elite,Office Supplies,Bengaluru-WH3,142,18,25,50,742092,In Stock,False
+PRD0928,ITC Printer Paper Lite,Office Supplies,Chennai-WH5,112,2,40,160,123984,In Stock,False
+PRD0929,HCL Printer Paper Max,Office Supplies,Kolkata-WH6,156,20,41,205,32760,In Stock,False
+PRD0930,Reliance Printer Paper Lite,Office Supplies,Chennai-WH5,233,8,42,168,234864,In Stock,False
+PRD0931,Bajaj Electricals File Folder Ultra,Office Supplies,Mumbai-WH1,202,17,34,170,270882,In Stock,False
+PRD0932,Zebronics File Folder Lite,Office Supplies,Hyderabad-WH4,212,14,26,78,258004,In Stock,False
+PRD0933,Asian Paints File Folder Plus,Office Supplies,Chennai-WH5,119,2,35,140,271439,In Stock,False
+PRD0934,boAt File Folder Lite,Office Supplies,Chennai-WH5,355,11,15,30,606695,In Stock,False
+PRD0935,Ambrane File Folder Elite,Office Supplies,Chennai-WH5,243,3,20,40,705672,In Stock,False
+PRD0936,Maruti File Folder Lite,Office Supplies,Kolkata-WH6,20,17,39,195,6420,Low Stock,True
+PRD0937,Voltas File Folder Standard,Office Supplies,Hyderabad-WH4,186,1,36,144,365676,In Stock,False
+PRD0938,ITC File Folder Base,Office Supplies,Bengaluru-WH3,126,13,38,114,413154,In Stock,False
+PRD0939,Bajaj File Folder Pro,Office Supplies,Kolkata-WH6,247,6,38,76,1099644,In Stock,False
+PRD0940,Asian Paints File Folder Lite,Office Supplies,Chennai-WH5,405,4,17,51,588060,In Stock,False
+PRD0941,Asian Paints Stapler Standard,Office Supplies,Chennai-WH5,454,20,40,160,1135454,In Stock,False
+PRD0942,Pidilite Stapler Standard,Office Supplies,Hyderabad-WH4,394,16,42,210,1512960,In Stock,False
+PRD0943,Hindusta Unilever Stapler Standard,Office Supplies,Kolkata-WH6,389,19,31,62,1528381,In Stock,False
+PRD0944,Mivi Stapler Pro,Office Supplies,Hyderabad-WH4,105,6,46,184,375900,In Stock,False
+PRD0945,Gizmore Stapler Lite,Office Supplies,Chennai-WH5,263,15,49,245,905246,In Stock,False
+PRD0946,Mivi Stapler Ultra,Office Supplies,Bengaluru-WH3,161,0,50,200,802585,In Stock,False
+PRD0947,Orient Stapler Plus,Office Supplies,Kolkata-WH6,424,14,17,34,1521312,In Stock,False
+PRD0948,ITC Stapler Ultra,Office Supplies,Kolkata-WH6,287,2,37,185,755097,In Stock,False
+PRD0949,Pebble Stapler Ultra,Office Supplies,Hyderabad-WH4,15,6,36,108,28320,Low Stock,True
+PRD0950,Mahindra Stapler Standard,Office Supplies,Chennai-WH5,390,0,20,100,370890,In Stock,False
+PRD0951,Polycab Whiteboard Elite,Office Supplies,Chennai-WH5,90,2,42,126,381690,In Stock,False
+PRD0952,Mivi Whiteboard Ultra,Office Supplies,Kolkata-WH6,78,10,36,108,264186,In Stock,False
+PRD0953,Bajaj Whiteboard Max,Office Supplies,Chennai-WH5,234,13,10,40,915642,In Stock,False
+PRD0954,Dabur Whiteboard Plus,Office Supplies,Bengaluru-WH3,207,5,47,94,726984,In Stock,False
+PRD0955,Portronics Whiteboard Classic,Office Supplies,Kolkata-WH6,302,7,44,88,141638,In Stock,False
+PRD0956,Amul Whiteboard Elite,Office Supplies,Chennai-WH5,154,0,50,100,732424,In Stock,False
+PRD0957,Pebble Whiteboard Max,Office Supplies,Hyderabad-WH4,289,14,49,98,1508580,In Stock,False
+PRD0958,Reliance Whiteboard Classic,Office Supplies,Bengaluru-WH3,32,17,49,245,44288,Low Stock,True
+PRD0959,Gizmore Whiteboard Base,Office Supplies,Chennai-WH5,132,5,48,192,522324,In Stock,False
+PRD0960,Zebronics Whiteboard Max,Office Supplies,Kolkata-WH6,262,7,27,54,357630,In Stock,False
+PRD0961,ITC Calculator Elite,Office Supplies,Hyderabad-WH4,446,17,14,28,1870524,In Stock,False
+PRD0962,Mahindra Calculator Ultra,Office Supplies,Hyderabad-WH4,440,20,10,50,1357400,In Stock,False
+PRD0963,Havells Calculator Premium,Office Supplies,Bengaluru-WH3,113,20,17,34,140685,In Stock,False
+PRD0964,Hero Calculator Max,Office Supplies,Chennai-WH5,435,4,26,52,1865280,In Stock,False
+PRD0965,Voltas Calculator Lite,Office Supplies,Mumbai-WH1,481,3,38,190,2596438,In Stock,False
+PRD0966,Infosys Calculator Premium,Office Supplies,Bengaluru-WH3,211,1,50,250,593754,In Stock,False
+PRD0967,Titan Calculator Classic,Office Supplies,Chennai-WH5,262,1,50,100,1354802,In Stock,False
+PRD0968,Mahindra Calculator Base,Office Supplies,Delhi-WH2,76,19,43,215,94924,In Stock,False
+PRD0969,Bajaj Calculator Base,Office Supplies,Bengaluru-WH3,445,16,28,112,1281600,In Stock,False
+PRD0970,ITC Calculator Base,Office Supplies,Delhi-WH2,9,8,39,156,20061,Low Stock,True
+PRD0971,Ambrane Office Chair Classic,Office Supplies,Kolkata-WH6,331,8,39,78,1073764,In Stock,False
+PRD0972,Hindusta Unilever Office Chair Pro,Office Supplies,Chennai-WH5,1,0,37,185,1944,Low Stock,True
+PRD0973,Hindusta Unilever Office Chair Base,Office Supplies,Hyderabad-WH4,241,4,35,70,995812,In Stock,False
+PRD0974,Wipro Office Chair Classic,Office Supplies,Delhi-WH2,68,19,11,22,142052,In Stock,False
+PRD0975,Ambrane Office Chair Elite,Office Supplies,Hyderabad-WH4,387,6,21,84,1558836,In Stock,False
+PRD0976,Zebronics Office Chair Elite,Office Supplies,Hyderabad-WH4,166,20,48,144,593118,In Stock,False
+PRD0977,Berger Office Chair Base,Office Supplies,Mumbai-WH1,267,2,41,123,136971,In Stock,False
+PRD0978,Hindusta Unilever Office Chair Standard,Office Supplies,Bengaluru-WH3,151,5,19,76,619100,In Stock,False
+PRD0979,Titan Office Chair Pro,Office Supplies,Mumbai-WH1,9,2,47,141,45342,Low Stock,True
+PRD0980,Finolex Office Chair Pro,Office Supplies,Chennai-WH5,4,2,21,105,15940,Low Stock,True
+PRD0981,Tata Desk Lamp Elite,Office Supplies,Hyderabad-WH4,127,20,49,245,32004,In Stock,False
+PRD0982,Polycab Desk Lamp Elite,Office Supplies,Delhi-WH2,386,12,28,112,1363738,In Stock,False
+PRD0983,Berger Desk Lamp Classic,Office Supplies,Bengaluru-WH3,21,7,32,160,3213,Low Stock,True
+PRD0984,HCL Desk Lamp Elite,Office Supplies,Hyderabad-WH4,40,11,44,176,139440,Low Stock,True
+PRD0985,Ambrane Desk Lamp Pro,Office Supplies,Kolkata-WH6,447,8,35,105,172989,In Stock,False
+PRD0986,HCL Desk Lamp Lite,Office Supplies,Hyderabad-WH4,367,15,46,138,1599386,In Stock,False
+PRD0987,Infosys Desk Lamp Premium,Office Supplies,Hyderabad-WH4,480,4,35,105,187680,In Stock,False
+PRD0988,Crompton Desk Lamp Classic,Office Supplies,Hyderabad-WH4,19,14,34,170,31312,Low Stock,True
+PRD0989,Bajaj Desk Lamp Elite,Office Supplies,Chennai-WH5,66,9,33,165,42174,In Stock,False
+PRD0990,Infosys Desk Lamp Lite,Office Supplies,Bengaluru-WH3,383,5,13,65,934903,In Stock,False
+PRD0991,Noise Pen Drive Lite,Office Supplies,Delhi-WH2,288,0,49,245,1123488,In Stock,False
+PRD0992,Noise Pen Drive Classic,Office Supplies,Chennai-WH5,494,18,39,195,1799642,In Stock,False
+PRD0993,Crossbeats Pen Drive Pro,Office Supplies,Chennai-WH5,176,18,34,102,584496,In Stock,False
+PRD0994,Wipro Pen Drive Premium,Office Supplies,Delhi-WH2,405,6,45,180,1104435,In Stock,False
+PRD0995,Reliance Pen Drive Lite,Office Supplies,Chennai-WH5,442,16,35,175,765986,In Stock,False
+PRD0996,Reliance Pen Drive Plus,Office Supplies,Bengaluru-WH3,312,13,21,42,1355016,In Stock,False
+PRD0997,HCL Pen Drive Base,Office Supplies,Delhi-WH2,130,1,43,172,266890,In Stock,False
+PRD0998,HCL Pen Drive Pro,Office Supplies,Chennai-WH5,167,16,22,66,912655,In Stock,False
+PRD0999,HCL Pen Drive Base,Office Supplies,Mumbai-WH1,64,0,35,70,102080,In Stock,False
+PRD1000,Mahindra Pen Drive Standard,Office Supplies,Hyderabad-WH4,25,4,39,78,105850,Low Stock,True

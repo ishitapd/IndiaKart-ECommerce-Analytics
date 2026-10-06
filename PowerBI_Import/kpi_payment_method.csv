@@ -1,0 +1,8 @@
+payment_method,transactions,amount_inr,failed_transactions,failure_rate_pct
+UPI,17570,1084987296.59,624,3.55
+Credit Card,10007,647059444.85,363,3.63
+Debit Card,7624,478977924.55,230,3.02
+Cash on Delivery,5883,368997795.49,209,3.55
+Net Banking,4026,254720188.54,159,3.95
+EMI,2943,189185981.82,87,2.96
+Wallet,1947,123456912.74,76,3.9

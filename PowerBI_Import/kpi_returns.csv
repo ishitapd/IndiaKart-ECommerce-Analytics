@@ -1,0 +1,11 @@
+reason,returns,return_value_inr,pending_refunds,rejected_returns
+Damaged in Transit,1143,78963550.36,242,61
+Defective Product,1134,78656166.82,236,78
+Size Issue,1196,78360061.02,241,76
+Changed Mind,1150,75173417.61,257,79
+Wrong Product Delivered,1135,70586549.32,234,58
+Duplicate Order,1081,67591721.14,208,65
+Not as Described,1125,66764457.14,234,76
+Quality Issue,1075,66650924.07,232,71
+Delayed Delivery,484,30346350.93,98,32
+Better Price Found,477,28081101.17,112,42

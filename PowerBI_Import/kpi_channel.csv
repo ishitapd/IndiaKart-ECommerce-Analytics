@@ -1,0 +1,4 @@
+channel,orders,revenue_inr,average_order_value_inr,cancelled_orders,cancel_rate_pct
+App,27549,1726659549.21,62675.94,3337,12.11
+Website,14820,932976230.73,62953.86,1768,11.93
+Mobile Web,7631,487749764.64,63916.89,891,11.68

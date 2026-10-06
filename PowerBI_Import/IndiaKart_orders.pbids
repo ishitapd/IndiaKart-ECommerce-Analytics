@@ -1,0 +1,14 @@
+{
+  "version": "0.1.0",
+  "connections": [
+    {
+      "details": {
+        "protocol": "File",
+        "address": {
+          "path": "D:\\DOWNLOADS\\IndiaKart_ECommerce_Analytics\\PowerBI_Import\\orders_clean.csv"
+        }
+      },
+      "mode": "Import"
+    }
+  ]
+}

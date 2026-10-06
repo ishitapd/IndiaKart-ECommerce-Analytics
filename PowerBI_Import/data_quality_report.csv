@@ -1,0 +1,9 @@
+check,metric,value
+orders,row_count,50000
+orders,unique_order_ids,50000
+relationships,orders_without_customer,0
+relationships,items_without_order,0
+reconciliation,orders_reconciled_to_items_plus_shipping,39929
+reconciliation,orders_not_reconciled,10071
+inventory,below_reorder_count,78
+returns,return_count,10000
